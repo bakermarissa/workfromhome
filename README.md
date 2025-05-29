@@ -1,4 +1,5 @@
 ##Columns for the attached .csv are defined as following:
+
 ##code = internal identifier
 ##OCC_CODE = 2010 SOC code 
 ##employment = number employed in the occupation (2018, BLS)

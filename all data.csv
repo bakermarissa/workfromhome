@@ -1,0 +1,809 @@
+code,OCC_CODE,employment,freq.public,freq.comp,occ title,A_MEAN,H_MEDIAN,A_MEDIAN,Quad,Sector
+1,111011,"195,530",52,80,Chief Executives,200140,91.15,189600,2,"Management, Business, Science"
+2,111021,"2,289,770",71,79,General and Operations Managers,123880,48.52,100930,2,"Management, Business, Science"
+3,111031,"50,330",62,80,legislators,"47,620",*,"24,670",2,"Management, Business, Science"
+4,112011,"25,260",55,90,Advertising and Promotions Managers,133090,56.31,117130,2,"Management, Business, Science"
+1,112021,"240,440",45,85,Marketing Managers,147240,64.56,134290,1,"Management, Business, Science"
+5,112022,"379,050",68,82,Sales Managers,140320,59.72,124220,2,"Management, Business, Science"
+6,112031,"72,460",64,84,Public Relations and Fundraising Managers,131570,55.19,114800,2,"Management, Business, Science"
+7,113011,"283,570",52,79,Administrative Services Managers,106050,46.24,96180,2,"Management, Business, Science"
+2,113021,"391,430",20,98,Computer and Information Systems Managers,152860,68.53,142530,1,"Management, Business, Science"
+8,113031,"608,120",58,83,Financial Managers,146830,61.53,127990,2,"Management, Business, Science"
+3,113051,"181,310",20,76,Industrial Production Managers,113370,49.7,103380,1,"Management, Business, Science"
+4,113061,"69,490",42,74,Purchasing Managers,125630,57.18,118940,1,"Management, Business, Science"
+5,113071,"124,810",49,76,"Transportation, Storage, and Distribution Managers",102850,45.54,94730,1,"Management, Business, Science"
+6,113111,"15,660",19,76,Compensation and Benefits Managers,132860,58.18,121010,1,"Management, Business, Science"
+7,113121,"143,580",45,77,Human Resources Managers,126700,54.47,113300,1,"Management, Business, Science"
+8,113131,"35,690",42,82,Training and Development Managers,121730,53.53,111340,1,"Management, Business, Science"
+9,119013,"4,770",48,58,"Farmers, Ranchers, and Other Agricultural Managers",79940,32.67,67950,1,"Management, Business, Science"
+9,119021,"278,460",50,80,Construction Managers,103110,44.89,93370,2,"Management, Business, Science"
+10,119031,"50,650",78,64,"Education Administrators, Preschool and Childcare Center/Program",53990,23.05,47940,2,"Management, Business, Science"
+11,119032,"263,120",75,76,"Education Administrators, Elementary and Secondary School",98750,NA,95310,2,"Management, Business, Science"
+10,119033,"143,430",42,76,"Education Administrators, Postsecondary",111210,45.36,94340,1,"Management, Business, Science"
+12,119039,"41,000",59,82,"Education Administrators, All Other",89570,39.83,82850,2,"Management, Business, Science"
+11,119041,"188,290",13,88,Architectural and Engineering Managers,148970,67.67,140760,1,"Management, Business, Science"
+13,119051,"219,160",75,65,Food Service Managers,58960,26.08,54240,2,"Management, Business, Science"
+14,119061,"8,400",91,74,Funeral Service Managers,93820,38.07,79180,2,"Management, Business, Science"
+15,119071,"4,300",79,80,Gaming Managers,85260,35.91,74700,2,"Management, Business, Science"
+16,119081,"37,050",79,82,Lodging Managers,62270,25.67,53390,2,"Management, Business, Science"
+12,119111,"372,670",47,88,Medical and Health Services Managers,113730,47.95,99730,1,"Management, Business, Science"
+13,119121,"60,260",45,82,Natural Sciences Managers,139680,59.55,123860,1,"Management, Business, Science"
+17,119131,"13,770",60,82,Postmasters and Mail Superintendents,77040,36.52,75970,2,"Management, Business, Science"
+18,119141,"202,550",70,86,"Property, Real Estate, and Community Association Managers",71730,28.05,58340,2,"Management, Business, Science"
+19,119151,"149,870",66,81,Social and Community Service Managers,71670,31.41,65320,2,"Management, Business, Science"
+20,119161,"9,550",76,81,Emergency Management Directors,82570,35.78,74420,2,"Management, Business, Science"
+14,119199,"462,840",46,80,"Managers, All Other",115590,51.67,107480,1,"Management, Business, Science"
+15,131011,"14,830",48,80,"Agents and Business Managers of Artists, Performers, and Athletes",90930,31.75,66040,1,"Management, Business, Science"
+16,131020,"407,410",45,75,Buyers and Purchasing Agents,"67,530",30.17,"62,750",1,"Management, Business, Science"
+21,131031,"287,730",60,90,"Claims Adjusters, Examiners, and Investigators",67540,31.68,65900,2,"Management, Business, Science"
+22,131032,"15,200",85,92,"Insurance Appraisers, Auto Damage",65510,30.06,62520,2,"Management, Business, Science"
+23,131041,"300,900",59,77,Compliance Officers,72520,33.1,68860,2,"Management, Business, Science"
+17,131051,"211,600",25,93,Cost Estimators,69710,30.79,64040,1,"Management, Business, Science"
+24,131071,"593,790",51,89,Human Resources Specialists,66790,29.27,60880,2,"Management, Business, Science"
+289,131074,200,32,39,Farm Labor Contractors,52930,22.19,46150,3,"Management, Business, Science"
+18,131075,"77,140",36,70,Labor Relations Specialists,70730,32.59,67790,1,"Management, Business, Science"
+19,131081,"169,820",35,82,Logisticians,78730,35.86,74600,1,"Management, Business, Science"
+20,131111,"684,470",32,71,Management Analysts,94390,40.2,83610,1,"Management, Business, Science"
+25,131121,"110,120",84,86,"Meeting, Convention, and Event Planners",53730,23.74,49370,2,"Management, Business, Science"
+26,131131,"75,700",82,78,Fundraisers,61610,27.38,56950,2,"Management, Business, Science"
+21,131141,"83,550",17,88,"Compensation, Benefits, and Job Analysis Specialists",67910,30.29,63000,1,"Management, Business, Science"
+22,131151,"291,380",33,87,Training and Development Specialists,65120,29.26,60870,1,"Management, Business, Science"
+23,131161,"638,200",44,90,Market Research Analysts and Marketing Specialists,70960,30.35,63120,1,"Management, Business, Science"
+24,131199,"1,060,580",42,83,"Business Operations Specialists, All Other",76960,33.91,70530,1,"Management, Business, Science"
+25,132011,"1,259,930",36,86,Accountants and Auditors,78820,33.89,70500,1,"Management, Business, Science"
+27,132021,"57,900",60,80,Appraisers and Assessors of Real Estate,61870,26.43,54980,2,"Management, Business, Science"
+26,132031,"52,810",13,92,Budget Analysts,79830,36.65,76220,1,"Management, Business, Science"
+27,132041,"74,820",33,82,Credit Analysts,82300,34.38,71520,1,"Management, Business, Science"
+28,132051,"306,200",18,96,Financial Analysts,100990,41.18,85660,1,"Management, Business, Science"
+28,132052,"200,260",68,88,Personal Financial Advisors,121770,42.73,88890,2,"Management, Business, Science"
+29,132053,"96,040",33,85,Insurance Underwriters,76880,33.36,69380,1,"Management, Business, Science"
+30,132061,"58,590",23,82,Financial Examiners,90310,38.55,80180,1,"Management, Business, Science"
+29,132071,"35,740",70,78,Credit Counselors,49820,21.72,45180,2,"Management, Business, Science"
+30,132072,"304,950",80,84,Loan Officers,76270,30.31,63040,2,"Management, Business, Science"
+31,132081,"54,550",90,83,"Tax Examiners and Collectors, and Revenue Agents",60500,26.17,54440,2,"Management, Business, Science"
+32,132082,"68,090",78,90,Tax Preparers,46860,18.94,39390,2,"Management, Business, Science"
+31,132099,"128,760",36,90,"Financial Specialists, All Other",77580,33.79,70280,1,"Management, Business, Science"
+32,151111,"30,070",24,99,Computer and Information Research Scientists,123850,56.91,118370,1,"Management, Business, Science"
+33,151121,"587,970",12,91,Computer Systems Analysts,93610,42.66,88740,1,"Management, Business, Science"
+34,151122,"108,060",19,93,Information Security Analysts,102470,47.28,98350,1,"Management, Business, Science"
+35,151131,"230,470",15,99,Computer Programmers,89580,40.52,84280,1,"Management, Business, Science"
+36,151132,"903,160",2,100,"Software Developers, Applications",108080,49.82,103620,1,"Management, Business, Science"
+37,151133,"405,330",6,97,"Software Developers, Systems Software",114000,52.89,110000,1,"Management, Business, Science"
+38,151134,"127,300",20,97,Web Developers,75580,33.38,69430,1,"Management, Business, Science"
+39,151141,"110,090",29,100,Database Administrators,92030,43.31,90070,1,"Management, Business, Science"
+40,151142,"366,250",12,97,Network and Computer Systems Administrators,87070,39.45,82050,1,"Management, Business, Science"
+41,151143,"152,670",15,95,Computer Network Architects,111130,52.41,109020,1,"Management, Business, Science"
+42,151151,"630,700",28,97,Computer User Support Specialists,55050,24.51,50980,1,"Management, Business, Science"
+43,151152,"181,360",11,99,Computer Network Support Specialists,68050,30.18,62770,1,"Management, Business, Science"
+44,151199,"381,380",24,95,"Computer Occupations, All Other",93350,43.4,90270,1,"Management, Business, Science"
+45,152011,"20,760",17,91,Actuaries,116250,49.46,102880,1,"Management, Business, Science"
+46,152021,"2,580",17,89,Mathematicians,104870,48.99,101900,1,"Management, Business, Science"
+47,152031,"104,200",13,98,Operations Research Analysts,88350,40.09,83390,1,"Management, Business, Science"
+48,152041,"39,920",13,94,Statisticians,92600,42.2,87780,1,"Management, Business, Science"
+49,152090,"2,010",14,88,Miscellaneous Mathematical Science Occupations,"72,390",27.5,"57,190",1,"Management, Business, Science"
+33,171011,"104,360",59,83,"Architects, Except Landscape and Naval",88860,38.16,79380,2,"Management, Business, Science"
+34,171012,"18,660",74,85,Landscape Architects,73160,32.8,68230,2,"Management, Business, Science"
+35,171021,"11,050",63,92,Cartographers and Photogrammetrists,68340,30.98,64430,2,"Management, Business, Science"
+36,171022,"45,310",72,86,Surveyors,66440,30.09,62580,2,"Management, Business, Science"
+50,172011,"63,960",3,97,Aerospace Engineers,117100,55.39,115220,1,"Management, Business, Science"
+37,172021,"1,630",51,89,Agricultural Engineers,79090,37.07,77110,2,"Management, Business, Science"
+51,172031,"18,970",21,89,Biomedical Engineers,95090,42.57,88550,1,"Management, Business, Science"
+52,172041,"32,060",19,88,Chemical Engineers,114470,50.44,104910,1,"Management, Business, Science"
+53,172051,"306,030",43,77,Civil Engineers,93720,41.65,86640,1,"Management, Business, Science"
+54,172061,"60,750",6,99,Computer Hardware Engineers,117840,55.1,114600,1,"Management, Business, Science"
+55,172071,"186,490",20,89,Electrical Engineers,101600,46.46,96640,1,"Management, Business, Science"
+56,172072,"134,110",5,86,"Electronics Engineers, Except Computer",107930,49.37,102700,1,"Management, Business, Science"
+38,172081,"53,070",55,86,Environmental Engineers,92640,42.13,87620,2,"Management, Business, Science"
+57,172111,"26,230",35,73,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",93630,42.85,89130,1,"Management, Business, Science"
+58,172112,"279,550",15,80,Industrial Engineers,91630,41.84,87040,1,"Management, Business, Science"
+59,172121,"11,350",19,69,Marine Engineers and Naval Architects,98970,44.5,92560,1,"Management, Business, Science"
+60,172131,"26,930",23,77,Materials Engineers,96930,44.42,92390,1,"Management, Business, Science"
+61,172141,"303,440",16,89,Mechanical Engineers,92800,42,87370,1,"Management, Business, Science"
+62,172151,"5,780",26,94,"Mining and Geological Engineers, Including Mining Safety Engineers",98420,44.35,92250,1,"Management, Business, Science"
+63,172161,"15,980",20,83,Nuclear Engineers,110790,51.73,107600,1,"Management, Business, Science"
+64,172171,"32,510",16,88,Petroleum Engineers,156370,65.95,137170,1,"Management, Business, Science"
+65,172199,"142,030",22,85,"Engineers, All Other",99410,46.62,96980,1,"Management, Business, Science"
+66,173011,"97,610",28,95,Architectural and Civil Drafters,56700,26.4,54920,1,"Management, Business, Science"
+67,173012,"24,900",13,88,Electrical and Electronics Drafters,64400,28.88,60070,1,"Management, Business, Science"
+68,173013,"56,170",15,93,Mechanical Drafters,59010,26.89,55920,1,"Management, Business, Science"
+69,173019,"14,580",19,90,"Drafters, All Other","54,240",24.93,"51,850",1,"Management, Business, Science"
+70,173021,"10,110",1,86,Aerospace Engineering and Operations Technicians,68970,32.22,67010,1,"Management, Business, Science"
+71,173022,"71,150",43,86,Civil Engineering Technicians,54670,25.28,52580,1,"Management, Business, Science"
+72,173023,"126,950",24,79,Electrical and Electronics Engineering Technicians,65050,30.93,64330,1,"Management, Business, Science"
+73,173024,"13,520",9,76,Electro-Mechanical Technicians,60240,27.78,57790,1,"Management, Business, Science"
+74,173025,"17,310",43,69,Environmental Engineering Technicians,54800,24.31,50560,1,"Management, Business, Science"
+75,173026,"66,540",17,71,Industrial Engineering Technicians,58860,26.66,55460,1,"Management, Business, Science"
+76,173027,"41,460",36,72,Mechanical Engineering Technicians,58240,27.04,56250,1,"Management, Business, Science"
+77,173029,"83,360",16,81,"Engineering Technicians, Except Drafters, All Other",65720,30.38,63200,1,"Management, Business, Science"
+78,173031,"52,300",27,88,Surveying and Mapping Technicians,47690,21.34,44380,1,"Management, Business, Science"
+39,191011,"2,530",58,84,Animal Scientists,67690,28.07,58380,2,"Management, Business, Science"
+79,191012,"13,330",30,79,Food Scientists and Technologists,72570,31.39,65300,1,"Management, Business, Science"
+80,191013,"15,010",47,87,Soil and Plant Scientists,70630,30.74,63950,1,"Management, Business, Science"
+81,191021,"28,500",11,84,Biochemists and Biophysicists,105940,44.85,93280,1,"Management, Business, Science"
+82,191022,"20,030",18,83,Microbiologists,81150,34.45,71650,1,"Management, Business, Science"
+40,191023,"17,860",66,90,Zoologists and Wildlife Biologists,67760,30.49,63420,2,"Management, Business, Science"
+83,191029,"42,640",23,86,"Biological Scientists, All Other",83600,38.27,79590,1,"Management, Business, Science"
+41,191031,"22,200",81,75,Conservation Scientists,65320,29.48,61310,2,"Management, Business, Science"
+42,191032,"8,410",60,78,Foresters,63150,29.53,61410,2,"Management, Business, Science"
+84,191041,"7,060",42,92,Epidemiologists,75690,33.49,69660,1,"Management, Business, Science"
+85,191042,"120,320",28,79,"Medical Scientists, Except Epidemiologists",96420,40.77,84810,1,"Management, Business, Science"
+86,191099,"6,850",46,83,"Life Scientists, All Other","89,150",37.59,"78,190",1,"Management, Business, Science"
+87,192011,"2,160",39,99,Astronomers,111090,50.81,105680,1,"Management, Business, Science"
+88,192012,"17,620",33,90,Physicists,125280,58.15,120950,1,"Management, Business, Science"
+43,192021,"9,310",58,96,Atmospheric and Space Scientists,95580,45.25,94110,2,"Management, Business, Science"
+89,192031,"84,560",19,89,Chemists,83850,36.97,76890,1,"Management, Business, Science"
+90,192032,"7,730",18,84,Materials Scientists,102450,47.98,99800,1,"Management, Business, Science"
+44,192041,"80,480",54,82,"Environmental Scientists and Specialists, Including Health",77580,34.2,71130,2,"Management, Business, Science"
+91,192042,"29,260",30,87,"Geoscientists, Except Hydrologists and Geographers",107800,43.81,91130,1,"Management, Business, Science"
+92,192043,"6,290",42,91,Hydrologists,82790,38.16,79370,1,"Management, Business, Science"
+93,192099,"17,380",25,93,"Physical Scientists, All Other",110090,51.55,107230,1,"Management, Business, Science"
+94,193011,"18,650",32,91,Economists,116020,50.16,104340,1,"Management, Business, Science"
+95,193022,"11,690",31,95,Survey Researchers,63240,27.74,57700,1,"Management, Business, Science"
+45,193031,"110,490",51,61,"Clinical, Counseling, and School Psychologists",85340,37.01,76990,2,"Management, Business, Science"
+96,193032,780,26,76,Industrial-Organizational Psychologists,109030,46.76,97260,1,"Management, Business, Science"
+46,193039,"13,480",58,77,"Psychologists, All Other",95610,48.45,100770,2,"Management, Business, Science"
+97,193041,"2,710",44,90,Sociologists,90290,39.45,82050,1,"Management, Business, Science"
+47,193051,"37,840",88,77,Urban and Regional Planners,76240,35.12,73050,2,"Management, Business, Science"
+48,193091,"6,020",51,85,Anthropologists and Archeologists,65310,30.01,62410,2,"Management, Business, Science"
+98,193092,"1,390",41,86,Geographers,80530,38.6,80300,1,"Management, Business, Science"
+49,193093,"3,040",80,75,Historians,66380,29.4,61140,2,"Management, Business, Science"
+99,193094,"5,660",46,78,Political Scientists,115300,56.52,117570,1,"Management, Business, Science"
+50,193099,"35,530",72,90,"Social Scientists and Related Workers, All Other",85750,39.11,81340,2,"Management, Business, Science"
+100,194011,"21,290",48,65,Agricultural and Food Science Technicians,44170,19.65,40860,1,"Management, Business, Science"
+101,194021,"77,450",40,78,Biological Technicians,48060,21.39,44500,1,"Management, Business, Science"
+102,194031,"65,500",11,89,Chemical Technicians,51670,23.15,48160,1,"Management, Business, Science"
+103,194041,"15,060",24,79,Geological and Petroleum Technicians,62890,25.62,53300,1,"Management, Business, Science"
+104,194051,"7,230",20,67,Nuclear Technicians,79970,38.05,79140,1,"Management, Business, Science"
+105,194061,"34,550",42,93,Social Science Research Assistants,50420,22.42,46640,1,"Management, Business, Science"
+51,194091,"32,600",59,80,"Environmental Science and Protection Technicians, Including Health",50350,22.2,46170,2,"Management, Business, Science"
+52,194092,"15,970",63,69,Forensic Science Technicians,62490,27.99,58230,2,"Management, Business, Science"
+53,194093,"30,220",63,67,Forest and Conservation Technicians,40110,17.88,37180,2,"Management, Business, Science"
+106,194099,"65,220",24,86,"Life, Physical, and Social Science Technicians, All Other",52940,23.88,49670,1,"Management, Business, Science"
+54,211012,"285,460",72,81,"Educational, Guidance, School, and Vocational Counselors",60160,27.07,56310,2,"Education, Legal, Community, Arts/Media"
+459,211013,"48,520",67,50,Marriage and Family Therapists,54150,24.08,50090,4,"Education, Legal, Community, Arts/Media"
+55,211015,"106,860",53,57,Rehabilitation Counselors,39930,17.13,35630,2,"Education, Legal, Community, Arts/Media"
+56,211018,"267,730",68,53,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors","47,920",21.46,"44,630",2,"Education, Legal, Community, Arts/Media"
+57,211019,"26,530",68,53,"Counselors, All Other","47,740",20.26,"42,130",2,"Education, Legal, Community, Arts/Media"
+58,211021,"320,170",86,85,"Child, Family, and School Social Workers",49760,22.24,46270,2,"Education, Legal, Community, Arts/Media"
+59,211022,"168,190",83,74,Healthcare Social Workers,58470,27.02,56200,2,"Education, Legal, Community, Arts/Media"
+60,211023,"116,750",77,74,Mental Health and Substance Abuse Social Workers,49630,21.56,44840,2,"Education, Legal, Community, Arts/Media"
+61,211029,"57,440",85,74,"Social Workers, All Other","62,660",30.35,"63,140",2,"Education, Legal, Community, Arts/Media"
+62,211091,"58,780",86,80,Health Educators,59660,26.07,54220,2,"Education, Legal, Community, Arts/Media"
+63,211092,"87,660",72,84,Probation Officers and Correctional Treatment Specialists,58790,25.49,53020,2,"Education, Legal, Community, Arts/Media"
+64,211093,"392,300",77,70,Social and Human Service Assistants,35830,16.22,33750,2,"Education, Legal, Community, Arts/Media"
+65,211094,"56,130",91,85,Community Health Workers,43480,19.01,39540,2,"Education, Legal, Community, Arts/Media"
+66,211099,"98,170",76,72,"Community and Social Service Specialists, All Other","46,050",20.49,"42,620",2,"Education, Legal, Community, Arts/Media"
+67,212011,"50,960",68,70,Clergy,53290,23.55,48990,2,"Education, Legal, Community, Arts/Media"
+68,212021,"21,700",74,73,"Directors, Religious Activities and Education",46980,19.62,40810,2,"Education, Legal, Community, Arts/Media"
+69,212099,"8,460",71,72,"Religious Workers, All Other","35,860",14.33,"29,820",2,"Education, Legal, Community, Arts/Media"
+70,231011,"642,750",61,81,Lawyers,144230,58.13,120910,2,"Education, Legal, Community, Arts/Media"
+107,231012,"16,350",26,73,Judicial Law Clerks,59540,25.74,53540,1,"Education, Legal, Community, Arts/Media"
+71,231021,"14,280",74,78,"Administrative Law Judges, Adjudicators, and Hearing Officers",101210,48,99850,2,"Education, Legal, Community, Arts/Media"
+72,231022,"6,240",54,53,"Arbitrators, Mediators, and Conciliators",72760,29.94,62270,2,"Education, Legal, Community, Arts/Media"
+73,231023,"28,520",94,73,"Judges, Magistrate Judges, and Magistrates",121130,64.39,133920,2,"Education, Legal, Community, Arts/Media"
+74,232011,"309,940",51,97,Paralegals and Legal Assistants,54500,24.49,50940,2,"Education, Legal, Community, Arts/Media"
+75,232091,"14,490",52,91,Court Reporters,62390,27.48,57150,2,"Education, Legal, Community, Arts/Media"
+108,232093,"52,180",34,89,"Title Examiners, Abstractors, and Searchers",51380,22.66,47130,1,"Education, Legal, Community, Arts/Media"
+109,232099,"43,150",46,92,"Legal Support Workers, All Other","71,420",28.33,"58,930",1,"Education, Legal, Community, Arts/Media"
+76,251011,"84,230",64,78,"Business Teachers, Postsecondary",103330,NA,83960,2,"Education, Legal, Community, Arts/Media"
+110,251021,"32,430",41,91,"Computer Science Teachers, Postsecondary",96200,NA,82220,1,"Education, Legal, Community, Arts/Media"
+77,251022,"51,250",55,76,"Mathematical Science Teachers, Postsecondary",87140,NA,73230,2,"Education, Legal, Community, Arts/Media"
+78,251031,"6,880",55,88,"Architecture Teachers, Postsecondary",99320,NA,86980,2,"Education, Legal, Community, Arts/Media"
+111,251032,"37,530",25,78,"Engineering Teachers, Postsecondary",113680,NA,101720,1,"Education, Legal, Community, Arts/Media"
+79,251041,"10,810",58,72,"Agricultural Sciences Teachers, Postsecondary",90890,NA,84640,2,"Education, Legal, Community, Arts/Media"
+112,251042,"51,770",47,90,"Biological Science Teachers, Postsecondary",97340,NA,82550,1,"Education, Legal, Community, Arts/Media"
+80,251043,"2,070",58,95,"Forestry and Conservation Science Teachers, Postsecondary",92550,NA,86900,2,"Education, Legal, Community, Arts/Media"
+81,251051,"11,020",60,84,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",101890,NA,90860,2,"Education, Legal, Community, Arts/Media"
+113,251052,"21,370",39,84,"Chemistry Teachers, Postsecondary",92360,NA,79550,1,"Education, Legal, Community, Arts/Media"
+114,251053,"6,040",42,82,"Environmental Science Teachers, Postsecondary",91330,NA,79910,1,"Education, Legal, Community, Arts/Media"
+115,251054,"13,730",47,89,"Physics Teachers, Postsecondary",103830,NA,90800,1,"Education, Legal, Community, Arts/Media"
+82,251061,"5,890",67,88,"Anthropology and Archeology Teachers, Postsecondary",94080,NA,83940,2,"Education, Legal, Community, Arts/Media"
+116,251062,"9,850",49,76,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",85450,NA,74440,1,"Education, Legal, Community, Arts/Media"
+117,251063,"12,750",39,81,"Economics Teachers, Postsecondary",117180,NA,101480,1,"Education, Legal, Community, Arts/Media"
+83,251064,"3,960",50,94,"Geography Teachers, Postsecondary",88950,NA,80350,2,"Education, Legal, Community, Arts/Media"
+118,251065,"15,890",42,79,"Political Science Teachers, Postsecondary",99480,NA,83370,1,"Education, Legal, Community, Arts/Media"
+84,251066,"37,630",70,84,"Psychology Teachers, Postsecondary",88490,NA,76710,2,"Education, Legal, Community, Arts/Media"
+119,251067,"13,870",26,87,"Sociology Teachers, Postsecondary",83310,NA,74140,1,"Education, Legal, Community, Arts/Media"
+120,251069,"17,670",49,84,"Social Sciences Teachers, Postsecondary, All Other","87,950",*,"71,600",1,"Education, Legal, Community, Arts/Media"
+85,251071,"199,480",61,86,"Health Specialties Teachers, Postsecondary",122320,NA,97370,2,"Education, Legal, Community, Arts/Media"
+86,251072,"55,710",60,90,"Nursing Instructors and Teachers, Postsecondary",81350,NA,73490,2,"Education, Legal, Community, Arts/Media"
+121,251081,"60,930",39,77,"Education Teachers, Postsecondary",73680,NA,64780,1,"Education, Legal, Community, Arts/Media"
+122,251082,"4,650",47,95,"Library Science Teachers, Postsecondary",75450,NA,71560,1,"Education, Legal, Community, Arts/Media"
+87,251111,"14,890",55,88,"Criminal Justice and Law Enforcement Teachers, Postsecondary",72390,NA,61900,2,"Education, Legal, Community, Arts/Media"
+123,251112,"16,990",41,68,"Law Teachers, Postsecondary",130710,NA,111140,1,"Education, Legal, Community, Arts/Media"
+124,251113,"12,620",43,79,"Social Work Teachers, Postsecondary",77520,NA,68300,1,"Education, Legal, Community, Arts/Media"
+88,251121,"94,310",63,73,"Art, Drama, and Music Teachers, Postsecondary",82560,NA,69960,2,"Education, Legal, Community, Arts/Media"
+89,251122,"29,100",66,86,"Communications Teachers, Postsecondary",78090,NA,68910,2,"Education, Legal, Community, Arts/Media"
+125,251123,"68,360",42,78,"English Language and Literature Teachers, Postsecondary",78150,NA,66590,1,"Education, Legal, Community, Arts/Media"
+90,251124,"25,590",50,82,"Foreign Language and Literature Teachers, Postsecondary",79160,NA,67640,2,"Education, Legal, Community, Arts/Media"
+126,251125,"20,510",41,71,"History Teachers, Postsecondary",83990,NA,74590,1,"Education, Legal, Community, Arts/Media"
+91,251126,"23,100",54,77,"Philosophy and Religion Teachers, Postsecondary",82420,NA,71890,2,"Education, Legal, Community, Arts/Media"
+127,251191,"131,490",35,81,Graduate Teaching Assistants,36390,NA,33700,1,"Education, Legal, Community, Arts/Media"
+128,251192,"2,080",46,74,"Home Economics Teachers, Postsecondary",77170,NA,71380,1,"Education, Legal, Community, Arts/Media"
+92,251193,"16,490",68,74,"Recreation and Fitness Studies Teachers, Postsecondary",72190,NA,62620,2,"Education, Legal, Community, Arts/Media"
+93,251194,"110,400",63,64,"Vocational Education Teachers, Postsecondary",58520,25.54,53120,2,"Education, Legal, Community, Arts/Media"
+94,251199,"183,750",51,82,"Postsecondary Teachers, All Other","76,990",*,"65,660",2,"Education, Legal, Community, Arts/Media"
+290,252011,"424,520",44,32,"Preschool Teachers, Except Special Education",34410,14.32,29780,3,"Education, Legal, Community, Arts/Media"
+95,252012,"131,160",56,64,"Kindergarten Teachers, Except Special Education",58370,NA,55470,2,"Education, Legal, Community, Arts/Media"
+96,252021,"1,410,970",58,65,"Elementary School Teachers, Except Special Education",62200,NA,58230,2,"Education, Legal, Community, Arts/Media"
+129,252022,"609,970",47,66,"Middle School Teachers, Except Special and Career/Technical Education",62030,NA,58600,1,"Education, Legal, Community, Arts/Media"
+97,252023,"11,940",50,79,"Career/Technical Education Teachers, Middle School",62570,NA,59230,2,"Education, Legal, Community, Arts/Media"
+130,252031,"1,051,570",49,69,"Secondary School Teachers, Except Special and Career/Technical Education",64340,NA,60320,1,"Education, Legal, Community, Arts/Media"
+98,252032,"77,460",69,76,"Career/Technical Education Teachers, Secondary School",62810,NA,60250,2,"Education, Legal, Community, Arts/Media"
+99,252051,"23,480",51,76,"Special Education Teachers, Preschool",61610,NA,55840,2,"Education, Legal, Community, Arts/Media"
+100,252052,"185,190",56,73,"Special Education Teachers, Kindergarten and Elementary School",63110,NA,59390,2,"Education, Legal, Community, Arts/Media"
+101,252053,"87,870",68,75,"Special Education Teachers, Middle School",64390,NA,60250,2,"Education, Legal, Community, Arts/Media"
+102,252054,"142,360",57,75,"Special Education Teachers, Secondary School",65320,NA,60600,2,"Education, Legal, Community, Arts/Media"
+103,252059,"36,800",59,56,"Special Education Teachers, All Other",62500,NA,56680,2,"Education, Legal, Community, Arts/Media"
+104,253011,"57,750",59,66,Adult Basic and Secondary Education and Literacy Teachers and Instructors,58110,25.79,53630,2,"Education, Legal, Community, Arts/Media"
+460,253021,"243,080",51,46,Self-Enrichment Education Teachers,44960,18.62,38720,4,"Education, Legal, Community, Arts/Media"
+105,253097,"315,510",52,77,"Teachers and Instructors, All Other, Except Substitute Teachers","48,040",*,"39,540",2,"Education, Legal, Community, Arts/Media"
+106,253098,"587,240",52,77,Substitute Teachers,"32,360",13.79,"28,680",2,"Education, Legal, Community, Arts/Media"
+107,254011,"6,370",74,85,Archivists,56400,25.11,52240,2,"Education, Legal, Community, Arts/Media"
+108,254012,"12,280",70,75,Curators,58490,25.86,53780,2,"Education, Legal, Community, Arts/Media"
+131,254013,"13,100",48,58,Museum Technicians and Conservators,46870,20.68,43020,1,"Education, Legal, Community, Arts/Media"
+109,254021,"125,750",71,94,Librarians,61530,28.39,59050,2,"Education, Legal, Community, Arts/Media"
+110,254031,"88,690",62,82,Library Technicians,36080,16.37,34040,2,"Education, Legal, Community, Arts/Media"
+132,259011,"9,540",33,98,Audio-Visual and Multimedia Collections Specialists,52270,23.85,49600,1,"Education, Legal, Community, Arts/Media"
+111,259021,"8,020",87,86,Farm and Home Management Advisors,52700,23.96,49840,2,"Education, Legal, Community, Arts/Media"
+112,259031,"163,900",56,86,Instructional Coordinators,67490,30.98,64450,2,"Education, Legal, Community, Arts/Media"
+291,259041,"1,331,560",33,41,Teacher Assistants,28750,NA,26970,3,"Education, Legal, Community, Arts/Media"
+133,259099,"106,590",47,61,"Education, Training, and Library Workers, All Other","46,680",20.23,"42,080",1,"Education, Legal, Community, Arts/Media"
+113,271011,"40,210",61,95,Art Directors,104590,44.6,92780,2,"Education, Legal, Community, Arts/Media"
+461,271012,"3,980",63,45,Craft Artists,40490,16.46,34240,4,"Education, Legal, Community, Arts/Media"
+134,271013,"11,620",41,62,"Fine Artists, Including Painters, Sculptors, and Illustrators",58370,23.74,49380,1,"Education, Legal, Community, Arts/Media"
+135,271014,"28,560",34,96,Multimedia Artists and Animators,78230,34.87,72520,1,"Education, Legal, Community, Arts/Media"
+114,271019,"6,620",50,75,"Artists and Related Workers, All Other","67,700",31.44,"65,390",2,"Education, Legal, Community, Arts/Media"
+136,271021,"33,200",13,85,Commercial and Industrial Designers,71430,32.01,66590,1,"Education, Legal, Community, Arts/Media"
+115,271022,"19,750",63,70,Fashion Designers,87610,34.96,72720,2,"Education, Legal, Community, Arts/Media"
+462,271023,"43,360",67,50,Floral Designers,28900,13.08,27200,4,"Education, Legal, Community, Arts/Media"
+137,271024,"217,810",35,84,Graphic Designers,54680,24.21,50370,1,"Education, Legal, Community, Arts/Media"
+116,271025,"57,070",50,92,Interior Designers,59120,25.66,53370,2,"Education, Legal, Community, Arts/Media"
+117,271026,"128,960",61,55,Merchandise Displayers and Window Trimmers,31850,13.68,28450,2,"Education, Legal, Community, Arts/Media"
+138,271027,"10,590",38,77,Set and Exhibit Designers,61020,26.09,54270,1,"Education, Legal, Community, Arts/Media"
+139,271029,"8,450",47,73,"Designers, All Other","68,610",29.12,"60,570",1,"Education, Legal, Community, Arts/Media"
+463,272011,"47,430",79,24,Actors,NA,17.54,NA,4,"Education, Legal, Community, Arts/Media"
+118,272012,"118,630",62,80,Producers and Directors,89840,34.46,71680,2,"Education, Legal, Community, Arts/Media"
+464,272021,"10,800",62,34,Athletes and Sports Competitors,87030,NA,50650,4,"Education, Legal, Community, Arts/Media"
+140,272022,"236,970",48,66,Coaches and Scouts,43870,NA,33780,1,"Education, Legal, Community, Arts/Media"
+465,272023,"19,090",59,35,"Umpires, Referees, and Other Sports Officials",36440,NA,27020,4,"Education, Legal, Community, Arts/Media"
+466,272031,"9,720",74,5,Dancers,NA,16.31,NA,4,"Education, Legal, Community, Arts/Media"
+467,272032,"5,090",69,45,Choreographers,53560,22.98,47800,4,"Education, Legal, Community, Arts/Media"
+119,272041,"12,160",66,73,Music Directors and Composers,59790,23.86,49630,2,"Education, Legal, Community, Arts/Media"
+468,272042,"41,680",83,22,Musicians and Singers,NA,28.15,NA,4,"Education, Legal, Community, Arts/Media"
+120,272099,"13,740",67,53,"Entertainers and Performers, Sports and Related Workers, All Other",*,15.94,*,2,"Education, Legal, Community, Arts/Media"
+121,273011,"27,780",89,94,Radio and Television Announcers,51630,15.97,33220,2,"Education, Legal, Community, Arts/Media"
+122,273012,"7,480",72,61,Public Address System and Other Announcers,39040,13.33,27720,2,"Education, Legal, Community, Arts/Media"
+123,273021,"5,890",85,71,Broadcast News Analysts,91990,32.15,66880,2,"Education, Legal, Community, Arts/Media"
+124,273022,"37,140",63,69,Reporters and Correspondents,55530,19.84,41260,2,"Education, Legal, Community, Arts/Media"
+125,273031,"239,030",74,89,Public Relations Specialists,68440,28.85,60000,2,"Education, Legal, Community, Arts/Media"
+141,273041,"95,750",47,89,Editors,69480,28.6,59480,1,"Education, Legal, Community, Arts/Media"
+142,273042,"50,350",17,90,Technical Writers,75500,34.54,71850,1,"Education, Legal, Community, Arts/Media"
+143,273043,"45,210",45,78,Writers and Authors,73090,29.89,62170,1,"Education, Legal, Community, Arts/Media"
+126,273091,"57,140",81,59,Interpreters and Translators,55230,24,49930,2,"Education, Legal, Community, Arts/Media"
+127,273099,"20,420",62,78,"Media and Communication Workers, All Other","52,430",23.24,"48,330",2,"Education, Legal, Community, Arts/Media"
+128,274011,"75,940",57,89,Audio and Video Equipment Technicians,48940,21.04,43770,2,"Education, Legal, Community, Arts/Media"
+144,274012,"31,580",45,90,Broadcast Technicians,46770,19.27,40080,1,"Education, Legal, Community, Arts/Media"
+145,274013,870,28,80,Radio Operators,44710,20.3,42220,1,"Education, Legal, Community, Arts/Media"
+146,274014,"13,510",37,93,Sound Engineering Technicians,63500,25.19,52390,1,"Education, Legal, Community, Arts/Media"
+129,274021,"49,560",67,88,Photographers,42770,16.35,34000,2,"Education, Legal, Community, Arts/Media"
+147,274031,"21,080",48,82,"Camera Operators, Television, Video, and Motion Picture",61750,26.24,54570,1,"Education, Legal, Community, Arts/Media"
+148,274032,"28,160",38,93,Film and Video Editors,86830,30.12,62650,1,"Education, Legal, Community, Arts/Media"
+149,274099,"18,790",46,88,"Media and Communication Equipment Workers, All Other","77,080",38.26,"79,580",1,"Education, Legal, Community, Arts/Media"
+130,291011,"34,740",77,72,Chiropractors,85870,34.33,71410,2,Healthcare Practitioners & Technical
+131,291021,"113,000",92,58,"Dentists, General",175840,73,151850,2,Healthcare Practitioners & Technical
+132,291022,"4,830",89,67,Oral and Maxillofacial Surgeons,242370,NA,NA,2,Healthcare Practitioners & Technical
+133,291023,"5,350",73,71,Orthodontists,225760,NA,NA,2,Healthcare Practitioners & Technical
+134,291024,380,93,72,Prosthodontists,191400,84.88,176540,2,Healthcare Practitioners & Technical
+135,291029,"4,490",87,67,"Dentists, All Other Specialists","178,800",70.66,"146,970",2,Healthcare Practitioners & Technical
+136,291031,"64,670",84,78,Dietitians and Nutritionists,61210,29.02,60370,2,Healthcare Practitioners & Technical
+137,291041,"37,220",82,60,Optometrists,119980,53.75,111790,2,Healthcare Practitioners & Technical
+138,291051,"309,550",80,90,Pharmacists,123670,60.64,126120,2,Healthcare Practitioners & Technical
+139,291061,"31,060",61,58,Anesthesiologists,267020,NA,NA,2,Healthcare Practitioners & Technical
+140,291062,"114,130",67,65,Family and General Practitioners,211780,96.68,201100,2,Healthcare Practitioners & Technical
+141,291063,"37,820",82,72,"Internists, General",196490,93.51,194500,2,Healthcare Practitioners & Technical
+469,291064,"18,590",74,44,Obstetricians and Gynecologists,238320,NA,NA,4,Healthcare Practitioners & Technical
+142,291065,"28,490",75,65,"Pediatricians, General",183240,82,170560,2,Healthcare Practitioners & Technical
+143,291066,"25,630",54,62,Psychiatrists,220380,NA,NA,2,Healthcare Practitioners & Technical
+144,291067,"34,390",78,55,Surgeons,255110,NA,NA,2,Healthcare Practitioners & Technical
+145,291069,"389,180",67,74,"Physicians and Surgeons, All Other",203880,96.58,200890,2,Healthcare Practitioners & Technical
+146,291071,"114,710",76,70,Physician Assistants,108430,52.22,108610,2,Healthcare Practitioners & Technical
+147,291081,"9,500",78,60,Podiatrists,148220,62.28,129550,2,Healthcare Practitioners & Technical
+148,291122,"126,900",78,64,Occupational Therapists,85350,40.51,84270,2,Healthcare Practitioners & Technical
+149,291123,"228,600",80,55,Physical Therapists,88880,42.27,87930,2,Healthcare Practitioners & Technical
+150,291124,"18,260",86,85,Radiation Therapists,86730,39.58,82330,2,Healthcare Practitioners & Technical
+151,291125,"18,840",67,65,Recreational Therapists,50640,23.01,47860,2,Healthcare Practitioners & Technical
+152,291126,"129,600",69,70,Respiratory Therapists,62500,28.98,60280,2,Healthcare Practitioners & Technical
+153,291127,"146,900",56,62,Speech-Language Pathologists,80700,37.26,77510,2,Healthcare Practitioners & Technical
+154,291128,"6,740",68,69,Exercise Physiologists,54760,23.69,49270,2,Healthcare Practitioners & Technical
+155,291129,"11,950",69,64,"Therapists, All Other","57,680",24.51,"50,980",2,Healthcare Practitioners & Technical
+156,291131,"71,060",88,61,Veterinarians,105240,45.11,93830,2,Healthcare Practitioners & Technical
+157,291141,"2,951,960",75,78,Registered Nurses,75510,34.48,71730,2,Healthcare Practitioners & Technical
+158,291151,"43,520",78,65,Nurse Anesthetists,174790,80.75,167950,2,Healthcare Practitioners & Technical
+159,291161,"6,250",87,76,Nurse Midwives,106910,49.89,103770,2,Healthcare Practitioners & Technical
+160,291171,"179,650",82,85,Nurse Practitioners,110030,51.46,107030,2,Healthcare Practitioners & Technical
+161,291181,"13,300",84,82,Audiologists,82210,36.5,75920,2,Healthcare Practitioners & Technical
+162,291199,"36,680",73,62,"Health Diagnosing and Treating Practitioners, All Other",85600,35.56,73960,2,Healthcare Practitioners & Technical
+150,292010,"321,220",24,74,Clinical Laboratory Technologists and Technicians,"53,880",25.16,"52,330",1,Healthcare Practitioners & Technical
+163,292021,"215,150",76,63,Dental Hygienists,75500,35.97,74820,2,Healthcare Practitioners & Technical
+164,292031,"56,560",69,83,Cardiovascular Technologists and Technicians,58730,27.33,56850,2,Healthcare Practitioners & Technical
+165,292032,"71,130",73,75,Diagnostic Medical Sonographers,73860,34.86,72510,2,Healthcare Practitioners & Technical
+166,292033,"18,810",77,89,Nuclear Medicine Technologists,78870,36.93,76820,2,Healthcare Practitioners & Technical
+167,292034,"205,590",92,78,Radiologic Technologists,61540,28.62,59520,2,Healthcare Practitioners & Technical
+168,292035,"38,540",78,88,Magnetic Resonance Imaging Technologists,72230,34.46,71670,2,Healthcare Practitioners & Technical
+169,292041,"257,210",88,72,Emergency Medical Technicians and Paramedics,37760,16.5,34320,2,Healthcare Practitioners & Technical
+470,292051,"33,540",57,42,Dietetic Technicians,30130,13.05,27140,4,Healthcare Practitioners & Technical
+170,292052,"417,860",79,79,Pharmacy Technicians,34020,15.72,32700,2,Healthcare Practitioners & Technical
+171,292053,"71,360",59,75,Psychiatric Technicians,37760,15.8,32870,2,Healthcare Practitioners & Technical
+172,292054,"9,090",79,82,Respiratory Therapy Technicians,51380,24.62,51210,2,Healthcare Practitioners & Technical
+471,292055,"110,160",50,46,Surgical Technologists,49040,22.74,47300,4,Healthcare Practitioners & Technical
+173,292056,"106,680",82,79,Veterinary Technologists and Technicians,35560,16.55,34420,2,Healthcare Practitioners & Technical
+174,292057,"52,890",81,79,Ophthalmic Medical Technicians,38220,17.56,36530,2,Healthcare Practitioners & Technical
+175,292061,"701,690",70,67,Licensed Practical and Licensed Vocational Nurses,47050,22.23,46240,2,Healthcare Practitioners & Technical
+151,292071,"208,650",32,84,Medical Records and Health Information Technicians,44010,19.4,40350,1,Healthcare Practitioners & Technical
+176,292081,"72,250",93,66,"Opticians, Dispensing",39930,17.8,37010,2,Healthcare Practitioners & Technical
+177,292091,"8,830",80,65,Orthotists and Prosthetists,73860,33.23,69120,2,Healthcare Practitioners & Technical
+178,292092,"7,680",84,87,Hearing Aid Specialists,55650,25.37,52770,2,Healthcare Practitioners & Technical
+179,292099,"125,270",74,75,"Health Technologists and Technicians, All Other",47450,20.63,42920,2,Healthcare Practitioners & Technical
+152,299011,"88,390",42,74,Occupational Health and Safety Specialists,74940,35.11,73020,1,Healthcare Practitioners & Technical
+153,299012,"18,020",39,80,Occupational Health and Safety Technicians,55270,24.41,50780,1,Healthcare Practitioners & Technical
+154,299091,"26,890",27,61,Athletic Trainers,49280,NA,47510,1,Healthcare Practitioners & Technical
+180,299092,"2,640",70,82,Genetic Counselors,80860,38.64,80370,2,Healthcare Practitioners & Technical
+181,299099,"32,680",83,53,"Healthcare Practitioners and Technical Workers, All Other",63340,26.26,54620,2,Healthcare Practitioners & Technical
+472,311011,"797,670",53,23,Home Health Aides,25330,11.63,24200,4,Healthcare Practitioners & Technical
+292,311013,"56,910",37,35,Psychiatric Aides,31090,14.03,29180,3,Healthcare Practitioners & Technical
+293,311014,"1,450,960",33,30,Nursing Assistants,29580,13.72,28540,3,Healthcare Practitioners & Technical
+473,311015,"50,100",50,36,Orderlies,29840,13.49,28060,4,Healthcare Practitioners & Technical
+182,312011,"42,660",75,69,Occupational Therapy Assistants,60410,28.95,60220,2,Healthcare Practitioners & Technical
+474,312012,"7,700",70,47,Occupational Therapy Aides,32580,13.54,28160,4,Healthcare Practitioners & Technical
+183,312021,"94,250",59,61,Physical Therapist Assistants,57750,27.91,58040,2,Healthcare Practitioners & Technical
+184,312022,"47,260",77,54,Physical Therapist Aides,28500,12.62,26240,2,Healthcare Practitioners & Technical
+475,319011,"105,160",83,33,Massage Therapists,45880,19.92,41420,4,Healthcare Practitioners & Technical
+185,319091,"341,060",68,80,Dental Assistants,39770,18.59,38660,2,Healthcare Practitioners & Technical
+186,319092,"673,660",77,84,Medical Assistants,34540,16.16,33610,2,Healthcare Practitioners & Technical
+187,319093,"55,610",51,63,Medical Equipment Preparers,37990,17.42,36240,2,Healthcare Practitioners & Technical
+155,319094,"53,730",6,94,Medical Transcriptionists,36350,16.72,34770,1,Healthcare Practitioners & Technical
+188,319095,"36,970",74,88,Pharmacy Aides,29190,12.72,26450,2,Healthcare Practitioners & Technical
+189,319096,"89,480",68,58,Veterinary Assistants and Laboratory Animal Caretakers,28690,13.24,27540,2,Healthcare Practitioners & Technical
+190,319097,"125,280",77,85,Phlebotomists,35560,16.58,34480,2,Healthcare Practitioners & Technical
+191,319099,"88,990",59,58,"Healthcare Support Workers, All Other",39110,18.19,37830,2,Healthcare Practitioners & Technical
+192,331011,"43,760",62,77,First-Line Supervisors of Correctional Officers,68350,30.45,63340,2,Service Occupations
+193,331012,"116,660",89,82,First-Line Supervisors of Police and Detectives,93100,42.8,89030,2,Service Occupations
+194,331021,"65,920",86,61,First-Line Supervisors of Fire Fighting and Prevention Workers,80310,36.7,76330,2,Service Occupations
+195,331099,"78,610",81,70,"First-Line Supervisors of Protective Service Workers, All Other","52,730",23.87,"49,640",2,Service Occupations
+196,332011,"321,570",74,52,Firefighters,53240,23.85,49620,2,Service Occupations
+197,332021,"12,530",92,72,Fire Inspectors and Investigators,64140,30.05,62510,2,Service Occupations
+198,332022,"2,130",80,61,Forest Fire Inspectors and Prevention Specialists,49610,19.04,39600,2,Service Occupations
+476,333011,"18,900",78,45,Bailiffs,49870,22,45760,4,Service Occupations
+199,333012,"415,000",52,58,Correctional Officers and Jailers,49300,21.31,44330,2,Service Occupations
+200,333021,"103,450",68,81,Detectives and Criminal Investigators,85020,39.38,81920,2,Service Occupations
+201,333031,"6,040",84,69,Fish and Game Wardens,59260,27.75,57710,2,Service Occupations
+202,333041,"8,070",80,63,Parking Enforcement Workers,42200,19.15,39840,2,Service Occupations
+203,333051,"661,330",93,75,Police and Sheriff's Patrol Officers,65400,29.51,61380,2,Service Occupations
+204,333052,"4,470",88,67,Transit and Railroad Police,74450,35.59,74030,2,Service Occupations
+205,339011,"12,080",85,73,Animal Control Workers,38490,17.47,36330,2,Service Occupations
+206,339021,"30,990",56,84,Private Detectives and Investigators,56810,24.08,50090,2,Service Occupations
+156,339031,"10,230",28,91,Gaming Surveillance Officers and Gaming Investigators,36200,15.71,32680,1,Service Occupations
+477,339032,"1,114,380",80,36,Security Guards,32050,13.7,28490,4,Service Occupations
+478,339091,"79,880",61,25,Crossing Guards,31970,13.92,28960,4,Service Occupations
+479,339092,"144,370",86,4,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",24420,10.77,22410,4,Service Occupations
+480,339093,"45,250",75,50,Transportation Security Screeners,41860,19.95,41490,4,Service Occupations
+157,339099,"141,790",45,73,"Protective Service Workers, All Other",34650,14.77,30720,1,Service Occupations
+207,351011,"128,600",61,53,Chefs and Head Cooks,52160,23.3,48460,2,Service Occupations
+208,351012,"964,400",67,53,First-Line Supervisors of Food Preparation and Serving Workers,36190,15.6,32450,2,Service Occupations
+294,352011,"487,510",41,29,"Cooks, Fast Food",22650,10.74,22330,3,Service Occupations
+295,352012,"400,320",43,26,"Cooks, Institution and Cafeteria",28290,12.91,26860,3,Service Occupations
+481,352013,460,60,37,"Cooks, Private Household",41240,18.07,37590,4,Service Occupations
+482,352014,"1,340,810",56,38,"Cooks, Restaurant",27580,12.76,26530,4,Service Occupations
+483,352015,"155,840",59,42,"Cooks, Short Order",25140,11.44,23800,4,Service Occupations
+484,352019,"18,570",52,34,"Cooks, All Other","30,360",13.78,"28,650",4,Service Occupations
+485,352021,"814,600",62,36,Food Preparation Workers,24830,11.41,23730,4,Service Occupations
+486,353011,"631,480",77,39,Bartenders,26780,10.84,22550,4,Service Occupations
+487,353021,"3,676,180",73,36,"Combined Food Preparation and Serving Workers, Including Fast Food",22140,10.22,21250,4,Service Occupations
+488,353022,"473,860",52,40,"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop",23240,10.74,22330,4,Service Occupations
+489,353031,"2,582,410",75,43,Waiters and Waitresses,25830,10.47,21780,4,Service Occupations
+490,353041,"266,190",60,12,"Food Servers, Nonrestaurant",24980,11.2,23290,4,Service Occupations
+491,359011,"455,700",74,41,Dining Room and Cafeteria Attendants and Bartender Helpers,23950,10.71,22270,4,Service Occupations
+296,359021,"504,770",48,29,Dishwashers,23190,10.93,22730,3,Service Occupations
+492,359031,"416,950",78,39,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",23260,10.65,22160,4,Service Occupations
+493,359099,"55,980",62,37,"Food Preparation and Serving Related Workers, All Other","25,430",11.47,"23,850",4,Service Occupations
+494,371011,"154,180",54,35,First-Line Supervisors of Housekeeping and Janitorial Workers,43150,19.2,39940,4,Service Occupations
+209,371012,"101,390",66,53,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",51280,23.18,48220,2,Service Occupations
+297,372011,"2,156,270",44,19,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",28950,12.55,26110,3,Service Occupations
+495,372012,"924,290",70,21,Maids and Housekeeping Cleaners,25570,11.43,23770,4,Service Occupations
+496,372019,"13,650",62,26,"Building Cleaning Workers, All Other","32,710",14.07,"29,260",4,Service Occupations
+497,372021,"77,300",72,38,Pest Control Workers,37950,17.12,35610,4,Service Occupations
+298,373011,"913,480",32,6,Landscaping and Groundskeeping Workers,30940,13.94,29000,3,Service Occupations
+498,373012,"24,500",75,33,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",38210,16.98,35320,4,Service Occupations
+299,373013,"42,440",44,11,Tree Trimmers and Pruners,40510,18.36,38190,3,Service Occupations
+499,373019,"14,470",50,16,"Grounds Maintenance Workers, All Other","35,710",14.63,"30,420",4,Service Occupations
+210,391010,"30,330",92,67,First-Line Supervisors of Gaming Workers,"50,250",23.76,"49,420",2,Service Occupations
+211,391021,"228,620",65,62,First-Line Supervisors of Personal Service Workers,41710,18.46,38400,2,Service Occupations
+500,392011,"14,830",75,41,Animal Trainers,35260,14.08,29290,4,Service Occupations
+501,392021,"199,850",59,48,Nonfarm Animal Caretakers,25890,11.42,23760,4,Service Occupations
+502,393011,"92,530",69,13,Gaming Dealers,23070,9.68,20120,4,Service Occupations
+503,393012,"11,150",78,44,Gaming and Sports Book Writers and Runners,27640,11.74,24430,4,Service Occupations
+504,393019,"9,950",74,29,"Gaming Service Workers, All Other","31,260",13.24,"27,550",4,Service Occupations
+300,393021,"4,840",44,31,Motion Picture Projectionists,25820,10.94,22760,3,Service Occupations
+505,393031,"133,970",75,43,"Ushers, Lobby Attendants, and Ticket Takers",23610,10.7,22260,4,Service Occupations
+212,393091,"319,890",83,57,Amusement and Recreation Attendants,23460,10.7,22260,2,Service Occupations
+301,393092,"6,460",15,35,Costume Attendants,46010,19.8,41190,3,Service Occupations
+506,393093,"17,610",70,12,"Locker Room, Coatroom, and Dressing Room Attendants",26720,11.55,24030,4,Service Occupations
+507,393099,"5,480",62,34,"Entertainment Attendants and Related Workers, All Other","29,690",11.68,"24,290",4,Service Occupations
+508,394011,"4,070",69,31,Embalmers,46640,21.27,44250,4,Service Occupations
+213,394021,"35,340",86,52,Funeral Attendants,28480,12.69,26400,2,Service Occupations
+214,394031,"25,740",95,84,"Morticians, Undertakers, and Funeral Directors",57620,25.31,52650,2,Service Occupations
+509,395011,"20,130",92,11,Barbers,33220,13.44,27960,4,Service Occupations
+510,395012,"377,210",82,49,"Hairdressers, Hairstylists, and Cosmetologists",30190,11.89,24730,4,Service Occupations
+302,395091,"3,140",47,38,"Makeup Artists, Theatrical and Performance",72030,30.89,64250,3,Service Occupations
+511,395092,"110,170",61,25,Manicurists and Pedicurists,25860,11.7,24330,4,Service Occupations
+512,395093,"13,720",66,19,Shampooers,22160,10.4,21640,4,Service Occupations
+513,395094,"50,740",93,30,Skincare Specialists,36350,15.05,31290,4,Service Occupations
+215,396011,"42,350",92,54,Baggage Porters and Bellhops,26990,11.64,24210,2,Service Occupations
+216,396012,"37,490",86,78,Concierges,33550,14.61,30400,2,Service Occupations
+217,397010,"49,740",79,51,Tour and Travel Guides,"29,630",12.77,"26,570",2,Service Occupations
+514,399011,"564,630",53,20,Childcare Workers,24610,11.17,23240,4,Service Occupations
+303,399021,"2,211,950",33,16,Personal Care Aides,25090,11.55,24020,3,Service Occupations
+515,399031,"308,470",71,29,Fitness Trainers and Aerobics Instructors,44580,19.15,39820,4,Service Occupations
+218,399032,"353,570",73,72,Recreation Workers,28310,12.05,25060,2,Service Occupations
+219,399041,"108,380",62,64,Residential Advisors,29970,13.39,27860,2,Service Occupations
+516,399099,"58,970",70,44,"Personal Care and Service Workers, All Other","28,270",12.59,"26,180",4,Service Occupations
+220,411011,"1,181,530",77,56,First-Line Supervisors of Retail Sales Workers,45080,19.05,39630,2,Sales and Office
+158,411012,"247,570",47,91,First-Line Supervisors of Non-Retail Sales Workers,84600,35.29,73390,1,Sales and Office
+517,412011,"3,635,550",86,49,Cashiers,23240,10.78,22430,4,Sales and Office
+221,412012,"22,020",85,70,Gaming Change Persons and Booth Cashiers,27220,11.96,24880,2,Sales and Office
+222,412021,"426,700",86,68,Counter and Rental Clerks,31200,13.12,27290,2,Sales and Office
+223,412022,"254,870",83,93,Parts Salespersons,34080,14.63,30430,2,Sales and Office
+224,412031,"4,448,120",93,62,Retail Salespersons,28310,11.63,24200,2,Sales and Office
+225,413011,"133,110",82,78,Advertising Sales Agents,63360,24.87,51740,2,Sales and Office
+226,413021,"393,830",60,72,Insurance Sales Agents,67890,24.33,50600,2,Sales and Office
+227,413031,"415,890",53,84,"Securities, Commodities, and Financial Services Sales Agents",98770,30.83,64120,2,Sales and Office
+228,413041,"69,480",77,90,Travel Agents,42720,18.61,38700,2,Sales and Office
+159,413099,"1,033,820",20,90,"Sales Representatives, Services, All Other",64860,26.23,54550,1,Sales and Office
+160,414011,"312,980",28,51,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",91830,38.31,79680,1,Sales and Office
+229,414012,"1,350,180",54,66,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",69480,28.13,58510,2,Sales and Office
+518,419011,"81,250",94,26,Demonstrators and Product Promoters,33260,13.92,28960,4,Sales and Office
+304,419012,"3,310",46,7,Models,31570,11.43,23770,3,Sales and Office
+230,419021,"40,320",54,73,Real Estate Brokers,78940,27.99,58210,2,Sales and Office
+231,419022,"156,760",80,85,Real Estate Sales Agents,61720,23.41,48690,2,Sales and Office
+161,419031,"65,720",40,91,Sales Engineers,108610,48.76,101420,1,Sales and Office
+162,419041,"164,160",32,74,Telemarketers,28550,12.14,25250,1,Sales and Office
+232,419091,"9,430",87,63,"Door-To-Door Sales Workers, News and Street Vendors, and Related Workers",34120,12.71,26430,2,Sales and Office
+233,419099,"95,690",64,70,"Sales and Related Workers, All Other","40,480",15.97,"33,220",2,Sales and Office
+234,431011,"1,477,560",51,87,First-Line Supervisors of Office and Administrative Support Workers,59340,26.83,55810,2,Sales and Office
+235,432011,"71,600",73,86,"Switchboard Operators, Including Answering Service",31290,14.14,29420,2,Sales and Office
+163,432021,"5,160",42,86,Telephone Operators,39360,17.91,37240,1,Sales and Office
+236,432099,"2,100",58,86,"Communications Equipment Operators, All Other","43,410",19.74,"41,050",2,Sales and Office
+164,433011,"251,330",38,79,Bill and Account Collectors,38220,17.32,36020,1,Sales and Office
+237,433021,"469,250",73,83,Billing and Posting Clerks,39520,18.17,37800,2,Sales and Office
+238,433031,"1,530,430",52,87,"Bookkeeping, Accounting, and Auditing Clerks",42110,19.35,40240,2,Sales and Office
+239,433041,"16,020",85,69,Gaming Cage Workers,28980,13.22,27490,2,Sales and Office
+165,433051,"144,030",24,80,Payroll and Timekeeping Clerks,46110,21.66,45050,1,Sales and Office
+166,433061,"68,100",27,92,Procurement Clerks,43180,20.51,42670,1,Sales and Office
+240,433071,"468,470",83,82,Tellers,30140,14.16,29450,2,Sales and Office
+241,433099,"31,010",57,82,"Financial Clerks, All Other","43,670",19.72,"41,020",2,Sales and Office
+167,434011,"55,100",24,80,Brokerage Clerks,53940,24.71,51400,1,Sales and Office
+168,434021,"5,460",44,92,Correspondence Clerks,38990,17.93,37290,1,Sales and Office
+242,434031,"142,350",77,85,"Court, Municipal, and License Clerks",41100,18.48,38450,2,Sales and Office
+243,434041,"29,980",61,86,"Credit Authorizers, Checkers, and Clerks",40670,18.63,38750,2,Sales and Office
+244,434051,"2,871,400",63,81,Customer Service Representatives,36470,16.23,33750,2,Sales and Office
+245,434061,"137,830",80,83,"Eligibility Interviewers, Government Programs",46480,22.12,46020,2,Sales and Office
+169,434071,"110,020",34,72,File Clerks,33810,15.24,31700,1,Sales and Office
+246,434081,"260,780",85,89,"Hotel, Motel, and Resort Desk Clerks",25130,11.39,23700,2,Sales and Office
+247,434111,"192,820",55,67,"Interviewers, Except Eligibility and Loan",35520,16.38,34060,2,Sales and Office
+248,434121,"88,970",72,91,"Library Assistants, Clerical",28960,12.74,26500,2,Sales and Office
+249,434131,"222,620",85,98,Loan Interviewers and Clerks,41310,19.18,39890,2,Sales and Office
+250,434141,"41,500",94,96,New Accounts Clerks,37000,17.21,35800,2,Sales and Office
+251,434151,"159,210",58,82,Order Clerks,35790,16.09,33460,2,Sales and Office
+170,434161,"124,600",48,91,"Human Resources Assistants, Except Payroll and Timekeeping",41620,19.42,40390,1,Sales and Office
+252,434171,"1,043,630",87,92,Receptionists and Information Clerks,30350,14.01,29140,2,Sales and Office
+253,434181,"132,050",93,96,Reservation and Transportation Ticket Agents and Travel Clerks,41730,17.9,37220,2,Sales and Office
+254,434199,"155,220",74,86,"Information and Record Clerks, All Other","41,900",19.69,"40,950",2,Sales and Office
+171,435011,"92,280",47,65,Cargo and Freight Agents,46070,20.77,43210,1,Sales and Office
+305,435021,"75,720",43,21,Couriers and Messengers,30620,13.81,28720,3,Sales and Office
+255,435031,"95,020",91,94,"Police, Fire, and Ambulance Dispatchers",43290,19.55,40660,2,Sales and Office
+256,435032,"199,880",55,86,"Dispatchers, Except Police, Fire, and Ambulance",42940,18.98,39470,2,Sales and Office
+257,435041,"33,570",61,60,"Meter Readers, Utilities",44640,19.4,40360,2,Sales and Office
+258,435051,"78,830",75,67,Postal Service Clerks,50860,26.58,55280,2,Sales and Office
+519,435052,"342,410",62,19,Postal Service Mail Carriers,51780,26.54,55210,4,Sales and Office
+306,435053,"103,830",20,50,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",51250,28.26,58770,3,Sales and Office
+172,435061,"350,150",20,82,"Production, Planning, and Expediting Clerks",50020,22.88,47580,1,Sales and Office
+173,435071,"655,590",47,56,"Shipping, Receiving, and Traffic Clerks",34980,15.88,33030,1,Sales and Office
+174,435081,"2,056,030",43,52,Stock Clerks and Order Fillers,28520,12.36,25700,1,Sales and Office
+175,435111,"65,830",37,72,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",34100,15.53,32310,1,Sales and Office
+259,436011,"570,530",53,85,Executive Secretaries and Executive Administrative Assistants,61550,28.53,59340,2,Sales and Office
+176,436012,"176,880",37,79,Legal Secretaries,50040,22.29,46360,1,Sales and Office
+260,436013,"585,410",62,91,Medical Secretaries,37090,17.19,35760,2,Sales and Office
+177,436014,"2,165,310",47,85,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",38030,17.61,36630,1,Sales and Office
+178,439011,"34,700",35,93,Computer Operators,46750,22.04,45840,1,Sales and Office
+179,439021,"174,930",42,93,Data Entry Keyers,33740,15.47,32170,1,Sales and Office
+261,439022,"53,130",52,79,Word Processors and Typists,41160,19.11,39750,2,Sales and Office
+180,439031,"10,740",49,98,Desktop Publishers,46750,20.63,42910,1,Sales and Office
+181,439041,"274,560",44,87,Insurance Claims and Policy Processing Clerks,42150,19.07,39660,1,Sales and Office
+182,439051,"86,150",23,57,"Mail Clerks and Mail Machine Operators, Except Postal Service",32040,14.63,30430,1,Sales and Office
+183,439061,"2,972,930",49,81,"Office Clerks, General",35200,15.74,32730,1,Sales and Office
+184,439071,"48,580",45,75,"Office Machine Operators, Except Computer",34530,15.76,32790,1,Sales and Office
+185,439081,"9,820",10,78,Proofreaders and Copy Markers,41950,18.82,39140,1,Sales and Office
+186,439111,"11,010",43,95,Statistical Assistants,50110,23.24,48330,1,Sales and Office
+262,439199,"196,570",55,79,"Office and Administrative Support Workers, All Other","37,480",16.76,"34,850",2,Sales and Office
+307,451011,"21,800",28,45,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",50790,22.57,46960,3,"Natural Resources, Construction, and Maintenance"
+263,452011,"13,240",57,73,Agricultural Inspectors,45970,21.22,44140,2,"Natural Resources, Construction, and Maintenance"
+308,452021,"2,160",34,49,Animal Breeders,43080,17.82,37060,3,"Natural Resources, Construction, and Maintenance"
+309,452041,"38,210",9,22,"Graders and Sorters, Agricultural Products",26510,11.75,24430,3,"Natural Resources, Construction, and Maintenance"
+310,452091,"26,060",26,35,Agricultural Equipment Operators,32620,14.99,31190,3,"Natural Resources, Construction, and Maintenance"
+311,452092,"287,420",34,17,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",26450,11.69,24320,3,"Natural Resources, Construction, and Maintenance"
+520,452093,"37,780",52,38,"Farmworkers, Farm, Ranch, and Aquacultural Animals",28840,12.77,26560,4,"Natural Resources, Construction, and Maintenance"
+312,452099,"6,600",35,36,"Agricultural Workers, All Other","34,340",14.18,"29,480",3,"Natural Resources, Construction, and Maintenance"
+264,454011,"7,510",81,75,Forest and Conservation Workers,31320,13.2,27460,2,"Natural Resources, Construction, and Maintenance"
+313,454021,"4,680",12,3,Fallers,48520,21.19,44080,3,"Natural Resources, Construction, and Maintenance"
+314,454022,"25,730",27,36,Logging Equipment Operators,41840,19.48,40510,3,"Natural Resources, Construction, and Maintenance"
+265,454023,"3,330",50,63,Log Graders and Scalers,39060,18.38,38220,2,"Natural Resources, Construction, and Maintenance"
+315,454029,"3,670",30,44,"Logging Workers, All Other","40,940",19.11,"39,750",3,"Natural Resources, Construction, and Maintenance"
+316,471011,"598,210",45,44,First-Line Supervisors of Construction Trades and Extraction Workers,70540,31.36,65230,3,"Natural Resources, Construction, and Maintenance"
+317,472011,"13,870",27,29,Boilermakers,63240,29.88,62150,3,"Natural Resources, Construction, and Maintenance"
+318,472021,"63,930",32,19,Brickmasons and Blockmasons,54430,24.49,50950,3,"Natural Resources, Construction, and Maintenance"
+319,472022,"12,310",38,1,Stonemasons,44370,19.82,41220,3,"Natural Resources, Construction, and Maintenance"
+320,472031,"718,730",37,17,Carpenters,51120,22.4,46590,3,"Natural Resources, Construction, and Maintenance"
+321,472041,"26,100",49,9,Carpet Installers,44550,18.92,39340,3,"Natural Resources, Construction, and Maintenance"
+521,472042,"14,050",52,20,"Floor Layers, Except Carpet, Wood, and Hard Tiles",46760,20.56,42760,4,"Natural Resources, Construction, and Maintenance"
+322,472043,"4,460",34,6,Floor Sanders and Finishers,39890,18.04,37510,3,"Natural Resources, Construction, and Maintenance"
+323,472044,"39,130",45,10,Tile and Marble Setters,45950,20.12,41840,3,"Natural Resources, Construction, and Maintenance"
+324,472051,"186,400",31,25,Cement Masons and Concrete Finishers,47350,20.67,43000,3,"Natural Resources, Construction, and Maintenance"
+325,472053,"2,730",40,15,Terrazzo Workers and Finishers,47230,20.43,42500,3,"Natural Resources, Construction, and Maintenance"
+326,472061,"1,001,470",43,16,Construction Laborers,40350,17.21,35800,3,"Natural Resources, Construction, and Maintenance"
+522,472071,"46,760",64,16,"Paving, Surfacing, and Tamping Equipment Operators",44360,19.13,39780,4,"Natural Resources, Construction, and Maintenance"
+327,472072,"3,450",30,28,Pile-Driver Operators,64360,28.21,58680,3,"Natural Resources, Construction, and Maintenance"
+328,472073,"383,480",44,39,Operating Engineers and Other Construction Equipment Operators,53030,22.98,47810,3,"Natural Resources, Construction, and Maintenance"
+329,472081,"101,900",21,9,Drywall and Ceiling Tile Installers,49170,21.03,43730,3,"Natural Resources, Construction, and Maintenance"
+330,472082,"18,320",25,2,Tapers,57340,26.48,55080,3,"Natural Resources, Construction, and Maintenance"
+523,472111,"655,840",56,37,Electricians,59190,26.53,55190,4,"Natural Resources, Construction, and Maintenance"
+524,472121,"50,940",54,26,Glaziers,48620,20.94,43550,4,"Natural Resources, Construction, and Maintenance"
+331,472131,"31,840",45,15,"Insulation Workers, Floor, Ceiling, and Wall",42070,18.5,38480,3,"Natural Resources, Construction, and Maintenance"
+332,472132,"24,610",36,15,"Insulation Workers, Mechanical",53180,22.95,47740,3,"Natural Resources, Construction, and Maintenance"
+525,472141,"228,420",55,35,"Painters, Construction and Maintenance",43050,18.72,38940,4,"Natural Resources, Construction, and Maintenance"
+333,472142,"2,780",45,23,Paperhangers,40840,18.31,38090,3,"Natural Resources, Construction, and Maintenance"
+334,472151,"38,070",38,21,Pipelayers,43500,18.54,38560,3,"Natural Resources, Construction, and Maintenance"
+335,472152,"438,070",47,15,"Plumbers, Pipefitters, and Steamfitters",58150,25.92,53910,3,"Natural Resources, Construction, and Maintenance"
+526,472161,"24,870",58,31,Plasterers and Stucco Masons,47610,20.93,43540,4,"Natural Resources, Construction, and Maintenance"
+336,472171,"18,360",18,20,Reinforcing Iron and Rebar Workers,54670,23.23,48320,3,"Natural Resources, Construction, and Maintenance"
+337,472181,"128,680",48,29,Roofers,43870,19.22,39970,3,"Natural Resources, Construction, and Maintenance"
+338,472211,"131,570",38,28,Sheet Metal Workers,52710,23.3,48460,3,"Natural Resources, Construction, and Maintenance"
+339,472221,"77,410",18,10,Structural Iron and Steel Workers,58170,25.95,53970,3,"Natural Resources, Construction, and Maintenance"
+527,472231,"8,950",52,26,Solar Photovoltaic Installers,46010,20.52,42680,4,"Natural Resources, Construction, and Maintenance"
+340,473011,"24,340",26,11,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",36390,16.05,33380,3,"Natural Resources, Construction, and Maintenance"
+341,473012,"33,020",26,22,Helpers--Carpenters,31850,14.85,30880,3,"Natural Resources, Construction, and Maintenance"
+342,473013,"75,970",35,4,Helpers--Electricians,32960,15.1,31410,3,"Natural Resources, Construction, and Maintenance"
+343,473014,"10,600",18,1,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",31720,14.4,29960,3,"Natural Resources, Construction, and Maintenance"
+528,473015,"54,710",52,28,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",32570,14.89,30980,4,"Natural Resources, Construction, and Maintenance"
+529,473016,"8,630",51,43,Helpers--Roofers,31740,14.61,30390,4,"Natural Resources, Construction, and Maintenance"
+344,473019,"26,320",35,18,"Helpers, Construction Trades, All Other","32,370",14.67,"30,510",3,"Natural Resources, Construction, and Maintenance"
+266,474011,"104,090",66,63,Construction and Building Inspectors,63150,28.7,59700,2,"Natural Resources, Construction, and Maintenance"
+267,474021,"26,830",57,65,Elevator Installers and Repairers,79370,38.36,79780,2,"Natural Resources, Construction, and Maintenance"
+345,474031,"23,530",42,26,Fence Erectors,37650,16.73,34800,3,"Natural Resources, Construction, and Maintenance"
+346,474041,"44,000",42,40,Hazardous Materials Removal Workers,47050,20.21,42030,3,"Natural Resources, Construction, and Maintenance"
+530,474051,"149,260",76,50,Highway Maintenance Workers,41440,19.08,39690,4,"Natural Resources, Construction, and Maintenance"
+347,474061,"14,410",45,27,Rail-Track Laying and Maintenance Equipment Operators,57120,27.37,56930,3,"Natural Resources, Construction, and Maintenance"
+531,474071,"27,090",60,15,Septic Tank Servicers and Sewer Pipe Cleaners,41530,18.74,38970,4,"Natural Resources, Construction, and Maintenance"
+532,474090,"33,340",57,33,Miscellaneous Construction and Related Workers,"43,000",18.68,"38,860",4,"Natural Resources, Construction, and Maintenance"
+348,475011,"11,310",26,36,"Derrick Operators, Oil and Gas",47630,22.17,46120,3,"Natural Resources, Construction, and Maintenance"
+349,475012,"18,010",25,16,"Rotary Drill Operators, Oil and Gas",56740,25.86,53800,3,"Natural Resources, Construction, and Maintenance"
+350,475013,"49,710",24,31,"Service Unit Operators, Oil, Gas, and Mining",52780,23.01,47860,3,"Natural Resources, Construction, and Maintenance"
+351,475021,"18,270",47,20,"Earth Drillers, Except Oil and Gas",47570,21.36,44430,3,"Natural Resources, Construction, and Maintenance"
+352,475031,"5,640",49,36,"Explosives Workers, Ordnance Handling Experts, and Blasters",52780,23.97,49860,3,"Natural Resources, Construction, and Maintenance"
+353,475041,"14,710",12,21,Continuous Mining Machine Operators,54470,26.21,54520,3,"Natural Resources, Construction, and Maintenance"
+354,475042,"4,920",6,11,Mine Cutting and Channeling Machine Operators,49080,22.68,47170,3,"Natural Resources, Construction, and Maintenance"
+355,475049,"3,280",9,16,"Mining Machine Operators, All Other","52,920",24.76,"51,490",3,"Natural Resources, Construction, and Maintenance"
+356,475051,"4,870",10,16,"Rock Splitters, Quarry",35760,16.71,34750,3,"Natural Resources, Construction, and Maintenance"
+357,475061,"3,250",2,11,"Roof Bolters, Mining",59090,28.2,58650,3,"Natural Resources, Construction, and Maintenance"
+358,475071,"54,810",29,17,"Roustabouts, Oil and Gas",40220,18.07,37580,3,"Natural Resources, Construction, and Maintenance"
+359,475081,"15,930",32,30,Helpers--Extraction Workers,37660,17.48,36350,3,"Natural Resources, Construction, and Maintenance"
+360,475099,"6,110",24,22,"Extraction Workers, All Other","54,300",26.37,"54,840",3,"Natural Resources, Construction, and Maintenance"
+268,491011,"471,820",58,65,"First-Line Supervisors of Mechanics, Installers, and Repairers",69320,31.8,66140,2,"Natural Resources, Construction, and Maintenance"
+187,492011,"102,810",48,78,"Computer, Automated Teller, and Office Machine Repairers",40880,18.5,38480,1,"Natural Resources, Construction, and Maintenance"
+188,492021,"13,930",27,68,"Radio, Cellular, and Tower Equipment Installers and Repairers",56340,26.39,54890,1,"Natural Resources, Construction, and Maintenance"
+269,492022,"229,890",71,86,"Telecommunications Equipment Installers and Repairers, Except Line Installers",57080,26.97,56100,2,"Natural Resources, Construction, and Maintenance"
+189,492091,"18,860",29,79,Avionics Technicians,65330,30.84,64140,1,"Natural Resources, Construction, and Maintenance"
+361,492092,"15,800",21,48,"Electric Motor, Power Tool, and Related Repairers",45770,20.6,42840,3,"Natural Resources, Construction, and Maintenance"
+190,492093,"11,680",34,69,"Electrical and Electronics Installers and Repairers, Transportation Equipment",61460,29.01,60340,1,"Natural Resources, Construction, and Maintenance"
+191,492094,"59,520",25,77,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",59210,27.94,58110,1,"Natural Resources, Construction, and Maintenance"
+192,492095,"22,980",16,73,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",80040,38.56,80200,1,"Natural Resources, Construction, and Maintenance"
+270,492096,"10,880",60,74,"Electronic Equipment Installers and Repairers, Motor Vehicles",36750,17.11,35590,2,"Natural Resources, Construction, and Maintenance"
+271,492097,"26,070",60,68,Electronic Home Entertainment Equipment Installers and Repairers,39800,18.35,38160,2,"Natural Resources, Construction, and Maintenance"
+272,492098,"70,900",54,75,Security and Fire Alarm Systems Installers,48540,22.69,47190,2,"Natural Resources, Construction, and Maintenance"
+193,493011,"131,690",35,75,Aircraft Mechanics and Service Technicians,65230,30.25,62920,1,"Natural Resources, Construction, and Maintenance"
+362,493021,"142,060",43,46,Automotive Body and Related Repairers,46460,20.55,42730,3,"Natural Resources, Construction, and Maintenance"
+533,493022,"19,640",60,26,Automotive Glass Installers and Repairers,36370,16.43,34170,4,"Natural Resources, Construction, and Maintenance"
+194,493023,"648,050",47,67,Automotive Service Technicians and Mechanics,43730,19.57,40710,1,"Natural Resources, Construction, and Maintenance"
+195,493031,"264,860",34,60,Bus and Truck Mechanics and Diesel Engine Specialists,49150,22.76,47350,1,"Natural Resources, Construction, and Maintenance"
+273,493041,"34,300",52,53,Farm Equipment Mechanics and Service Technicians,42190,19.54,40630,2,"Natural Resources, Construction, and Maintenance"
+196,493042,"140,260",37,61,"Mobile Heavy Equipment Mechanics, Except Engines",53370,24.96,51920,1,"Natural Resources, Construction, and Maintenance"
+363,493043,"24,720",22,29,Rail Car Repairers,56020,27.03,56220,3,"Natural Resources, Construction, and Maintenance"
+534,493051,"22,280",53,49,Motorboat Mechanics and Service Technicians,42330,19.32,40180,4,"Natural Resources, Construction, and Maintenance"
+197,493052,"15,090",45,54,Motorcycle Mechanics,39260,17.69,36790,1,"Natural Resources, Construction, and Maintenance"
+198,493053,"31,760",49,68,Outdoor Power Equipment and Other Small Engine Mechanics,36940,17.02,35400,1,"Natural Resources, Construction, and Maintenance"
+535,493091,"12,200",92,47,Bicycle Repairers,30290,13.92,28960,4,"Natural Resources, Construction, and Maintenance"
+536,493092,"15,560",53,38,Recreational Vehicle Service Technicians,40090,18.35,38160,4,"Natural Resources, Construction, and Maintenance"
+537,493093,"111,620",61,39,Tire Repairers and Changers,29530,13.41,27890,4,"Natural Resources, Construction, and Maintenance"
+538,499011,"22,670",63,28,Mechanical Door Repairers,43350,19.71,41010,4,"Natural Resources, Construction, and Maintenance"
+199,499012,"51,730",34,63,"Control and Valve Installers and Repairers, Except Mechanical Door",57890,26.96,56070,1,"Natural Resources, Construction, and Maintenance"
+274,499021,"324,310",66,59,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",50160,22.89,47610,2,"Natural Resources, Construction, and Maintenance"
+539,499031,"31,130",77,48,Home Appliance Repairers,41020,18.88,39270,4,"Natural Resources, Construction, and Maintenance"
+364,499041,"362,440",10,43,Industrial Machinery Mechanics,54000,25.16,52340,3,"Natural Resources, Construction, and Maintenance"
+365,499043,"80,270",16,40,"Maintenance Workers, Machinery",48720,22.63,47060,3,"Natural Resources, Construction, and Maintenance"
+366,499044,"43,810",23,38,Millwrights,56250,26.47,55060,3,"Natural Resources, Construction, and Maintenance"
+367,499045,"1,120",9,18,"Refractory Materials Repairers, Except Brickmasons",52510,25.09,52190,3,"Natural Resources, Construction, and Maintenance"
+540,499051,"114,800",65,41,Electrical Power-Line Installers and Repairers,70240,34.09,70910,4,"Natural Resources, Construction, and Maintenance"
+275,499052,"118,200",68,72,Telecommunications Line Installers and Repairers,59000,28.02,58280,2,"Natural Resources, Construction, and Maintenance"
+200,499061,"3,690",44,64,Camera and Photographic Equipment Repairers,42540,19.53,40620,1,"Natural Resources, Construction, and Maintenance"
+201,499062,"46,320",36,75,Medical Equipment Repairers,52710,23.66,49210,1,"Natural Resources, Construction, and Maintenance"
+541,499063,"8,450",78,48,Musical Instrument Repairers and Tuners,39110,17.47,36330,4,"Natural Resources, Construction, and Maintenance"
+542,499064,"2,610",69,28,Watch Repairers,44830,19.19,39910,4,"Natural Resources, Construction, and Maintenance"
+276,499069,"10,930",57,54,"Precision Instrument and Equipment Repairers, All Other","58,060",27.7,"57,610",2,"Natural Resources, Construction, and Maintenance"
+368,499071,"1,384,240",31,32,"Maintenance and Repair Workers, General",41020,18.42,38300,3,"Natural Resources, Construction, and Maintenance"
+202,499081,"5,580",23,75,Wind Turbine Service Technicians,58000,26.14,54370,1,"Natural Resources, Construction, and Maintenance"
+543,499091,"32,920",52,47,"Coin, Vending, and Amusement Machine Servicers and Repairers",36390,16.61,34560,4,"Natural Resources, Construction, and Maintenance"
+369,499092,"3,380",46,33,Commercial Divers,59470,23.63,49140,3,"Natural Resources, Construction, and Maintenance"
+370,499093,400,18,10,"Fabric Menders, Except Garment",33550,14.77,30730,3,"Natural Resources, Construction, and Maintenance"
+277,499094,"16,970",75,56,Locksmiths and Safe Repairers,43740,19.93,41450,2,"Natural Resources, Construction, and Maintenance"
+544,499095,"2,920",77,29,Manufactured Building and Mobile Home Installers,32910,15.4,32040,4,"Natural Resources, Construction, and Maintenance"
+371,499096,"20,970",19,14,Riggers,51330,24.22,50370,3,"Natural Resources, Construction, and Maintenance"
+372,499097,"7,730",27,49,Signal and Track Switch Repairers,67800,33.89,70490,3,"Natural Resources, Construction, and Maintenance"
+373,499098,"105,040",30,42,"Helpers--Installation, Maintenance, and Repair Workers",31390,14.16,29450,3,"Natural Resources, Construction, and Maintenance"
+203,499099,"157,030",21,65,"Installation, Maintenance, and Repair Workers, All Other",43050,18.9,39320,1,"Natural Resources, Construction, and Maintenance"
+374,511011,"622,790",22,45,First-Line Supervisors of Production and Operating Workers,64340,29.05,60420,3,"Production, Transportation, and Material Moving "
+204,512011,"43,150",21,52,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",55530,25.64,53340,1,"Production, Transportation, and Material Moving "
+375,512021,"12,190",26,36,"Coil Winders, Tapers, and Finishers",36610,16.54,34400,3,"Production, Transportation, and Material Moving "
+376,512028,"275,450",23,46,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers","35,880",16.18,"33,660",3,"Production, Transportation, and Material Moving "
+377,512031,"48,200",18,47,Engine and Other Machine Assemblers,45330,21.34,44380,3,"Production, Transportation, and Material Moving "
+378,512041,"76,090",18,21,Structural Metal Fabricators and Fitters,41640,18.89,39290,3,"Production, Transportation, and Material Moving "
+379,512091,"21,190",36,27,Fiberglass Laminators and Fabricators,36170,16.59,34500,3,"Production, Transportation, and Material Moving "
+380,512093,780,42,44,Timing Device Assemblers and Adjusters,37460,16.66,34650,3,"Production, Transportation, and Material Moving "
+381,512098,"1,354,150",25,46,"Assemblers and Fabricators, All Other, Including Team Assemblers","34,270",15.16,"31,540",3,"Production, Transportation, and Material Moving "
+382,513011,"180,010",37,34,Bakers,28660,12.75,26520,3,"Production, Transportation, and Material Moving "
+545,513021,"133,670",74,38,Butchers and Meat Cutters,33210,15.18,31580,4,"Production, Transportation, and Material Moving "
+383,513022,"156,440",30,27,"Meat, Poultry, and Fish Cutters and Trimmers",27790,12.96,26950,3,"Production, Transportation, and Material Moving "
+384,513023,"75,550",25,13,Slaughterers and Meat Packers,28450,13.59,28260,3,"Production, Transportation, and Material Moving "
+205,513091,"21,060",40,60,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",32730,14.83,30840,1,"Production, Transportation, and Material Moving "
+206,513092,"160,160",26,57,Food Batchmakers,32090,14.29,29720,1,"Production, Transportation, and Material Moving "
+385,513093,"32,260",25,47,Food Cooking Machine Operators and Tenders,31690,14.48,30120,3,"Production, Transportation, and Material Moving "
+386,513099,"42,620",37,39,"Food Processing Workers, All Other","27,590",12.44,"25,870",3,"Production, Transportation, and Material Moving "
+207,514011,"148,150",16,70,"Computer-Controlled Machine Tool Operators, Metal and Plastic",41960,19.26,40070,1,"Production, Transportation, and Material Moving "
+208,514012,"23,770",12,87,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",56300,25.57,53190,1,"Production, Transportation, and Material Moving "
+209,514021,"75,610",12,51,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",36620,16.9,35150,1,"Production, Transportation, and Material Moving "
+210,514022,"18,330",5,54,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",40770,18.7,38900,1,"Production, Transportation, and Material Moving "
+211,514023,"26,700",30,55,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",40790,18.58,38650,1,"Production, Transportation, and Material Moving "
+387,514031,"186,640",16,47,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",36180,16.57,34460,3,"Production, Transportation, and Material Moving "
+212,514032,"11,400",12,71,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",41490,18.28,38020,1,"Production, Transportation, and Material Moving "
+388,514033,"71,870",15,50,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",36690,16.76,34850,3,"Production, Transportation, and Material Moving "
+213,514034,"29,510",10,55,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",41090,18.84,39180,1,"Production, Transportation, and Material Moving "
+214,514035,"19,440",18,53,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",44490,20.95,43590,1,"Production, Transportation, and Material Moving "
+389,514041,"384,350",13,46,Machinists,45250,20.97,43630,3,"Production, Transportation, and Material Moving "
+390,514051,"17,670",12,39,Metal-Refining Furnace Operators and Tenders,41810,19.82,41220,3,"Production, Transportation, and Material Moving "
+391,514052,"7,850",27,42,"Pourers and Casters, Metal",39670,18.14,37730,3,"Production, Transportation, and Material Moving "
+215,514061,"5,210",16,64,"Model Makers, Metal and Plastic",56920,26.98,56130,1,"Production, Transportation, and Material Moving "
+216,514062,"2,880",4,54,"Patternmakers, Metal and Plastic",47130,22.04,45840,1,"Production, Transportation, and Material Moving "
+392,514071,"15,600",15,18,Foundry Mold and Coremakers,36820,17.04,35430,3,"Production, Transportation, and Material Moving "
+393,514072,"164,110",4,40,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",33950,15.13,31480,3,"Production, Transportation, and Material Moving "
+394,514081,"133,840",11,43,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",37510,17.01,35390,3,"Production, Transportation, and Material Moving "
+217,514111,"72,700",13,57,Tool and Die Makers,53650,25.36,52750,1,"Production, Transportation, and Material Moving "
+395,514121,"389,190",23,28,"Welders, Cutters, Solderers, and Brazers",44360,19.89,41380,3,"Production, Transportation, and Material Moving "
+396,514122,"35,080",18,35,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",39160,18.11,37670,3,"Production, Transportation, and Material Moving "
+218,514191,"19,690",20,58,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",39050,18.04,37520,1,"Production, Transportation, and Material Moving "
+397,514192,"8,170",33,30,"Layout Workers, Metal and Plastic",47380,23.03,47900,3,"Production, Transportation, and Material Moving "
+398,514193,"40,070",16,28,"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic",34830,15.58,32420,3,"Production, Transportation, and Material Moving "
+219,514194,"7,070",13,55,"Tool Grinders, Filers, and Sharpeners",40890,18.34,38140,1,"Production, Transportation, and Material Moving "
+399,514199,"25,470",20,40,"Metal Workers and Plastic Workers, All Other","38,140",17.27,"35,920",3,"Production, Transportation, and Material Moving "
+220,515111,"29,990",26,90,Prepress Technicians and Workers,42240,19.43,40410,1,"Production, Transportation, and Material Moving "
+221,515112,"173,470",24,54,Printing Press Operators,38470,17.41,36220,1,"Production, Transportation, and Material Moving "
+400,515113,"45,690",26,46,Print Binding and Finishing Workers,34850,15.81,32890,3,"Production, Transportation, and Material Moving "
+401,516011,"213,350",38,25,Laundry and Dry-Cleaning Workers,24480,11.16,23210,3,"Production, Transportation, and Material Moving "
+402,516021,"38,320",30,27,"Pressers, Textile, Garment, and Related Materials",24060,11.23,23350,3,"Production, Transportation, and Material Moving "
+403,516031,"136,450",17,22,Sewing Machine Operators,26990,12.03,25030,3,"Production, Transportation, and Material Moving "
+404,516041,"8,640",30,11,Shoe and Leather Workers and Repairers,29800,13.87,28840,3,"Production, Transportation, and Material Moving "
+405,516042,"3,810",26,28,Shoe Machine Operators and Tenders,30110,14.63,30430,3,"Production, Transportation, and Material Moving "
+546,516051,"5,350",65,25,"Sewers, Hand",29510,13.78,28650,4,"Production, Transportation, and Material Moving "
+547,516052,"21,150",61,12,"Tailors, Dressmakers, and Custom Sewers",34330,14.9,31000,4,"Production, Transportation, and Material Moving "
+406,516061,"9,330",17,33,Textile Bleaching and Dyeing Machine Operators and Tenders,29930,13.84,28780,3,"Production, Transportation, and Material Moving "
+222,516062,"13,310",9,51,"Textile Cutting Machine Setters, Operators, and Tenders",29440,13.57,28220,1,"Production, Transportation, and Material Moving "
+407,516063,"21,190",12,16,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",30470,14.02,29160,3,"Production, Transportation, and Material Moving "
+408,516064,"31,650",14,36,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",29660,13.9,28920,3,"Production, Transportation, and Material Moving "
+409,516091,"18,130",11,42,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",35500,16.44,34200,3,"Production, Transportation, and Material Moving "
+223,516092,"5,220",6,68,Fabric and Apparel Patternmakers,49180,19.5,40560,1,"Production, Transportation, and Material Moving "
+410,516093,"32,870",49,32,Upholsterers,35920,16.58,34480,3,"Production, Transportation, and Material Moving "
+411,516099,"15,360",28,31,"Textile, Apparel, and Furnishings Workers, All Other","31,070",13.34,"27,750",3,"Production, Transportation, and Material Moving "
+548,517011,"102,100",56,22,Cabinetmakers and Bench Carpenters,36580,16.7,34740,4,"Production, Transportation, and Material Moving "
+412,517021,"17,250",34,39,Furniture Finishers,33850,15.36,31950,3,"Production, Transportation, and Material Moving "
+224,517031,740,42,54,"Model Makers, Wood",52590,25.53,53100,1,"Production, Transportation, and Material Moving "
+413,517032,530,1,47,"Patternmakers, Wood",59650,29.3,60940,3,"Production, Transportation, and Material Moving "
+414,517041,"52,260",10,25,"Sawing Machine Setters, Operators, and Tenders, Wood",31200,14.18,29500,3,"Production, Transportation, and Material Moving "
+415,517042,"78,980",8,25,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",31110,14.29,29730,3,"Production, Transportation, and Material Moving "
+416,517099,"5,970",25,35,"Woodworkers, All Other","34,530",14.98,"31,170",3,"Production, Transportation, and Material Moving "
+225,518011,"6,280",14,66,Nuclear Power Reactor Operators,95310,45.36,94350,1,"Production, Transportation, and Material Moving "
+278,518012,"11,620",53,79,Power Distributors and Dispatchers,85340,41.54,86410,2,"Production, Transportation, and Material Moving "
+226,518013,"33,920",17,68,Power Plant Operators,78030,38.27,79610,1,"Production, Transportation, and Material Moving "
+227,518021,"31,710",27,76,Stationary Engineers and Boiler Operators,63690,29.06,60440,1,"Production, Transportation, and Material Moving "
+279,518031,"123,650",57,70,Water and Wastewater Treatment Plant and System Operators,49490,22.49,46780,2,"Production, Transportation, and Material Moving "
+228,518091,"28,190",8,65,Chemical Plant and System Operators,61570,29.84,62060,1,"Production, Transportation, and Material Moving "
+229,518092,"14,620",27,57,Gas Plant Operators,71470,34.17,71070,1,"Production, Transportation, and Material Moving "
+230,518093,"38,930",19,74,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",70630,34.07,70860,1,"Production, Transportation, and Material Moving "
+231,518099,"12,270",31,65,"Plant and System Operators, All Other",58300,27.45,57100,1,"Production, Transportation, and Material Moving "
+232,519011,"82,880",21,62,Chemical Equipment Operators and Tenders,51070,23.45,48770,1,"Production, Transportation, and Material Moving "
+233,519012,"49,770",14,55,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",44140,19.62,40810,1,"Production, Transportation, and Material Moving "
+417,519021,"31,890",29,39,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",38060,17.5,36400,3,"Production, Transportation, and Material Moving "
+418,519022,"30,280",34,43,"Grinding and Polishing Workers, Hand",31900,14.21,29550,3,"Production, Transportation, and Material Moving "
+419,519023,"128,600",18,38,"Mixing and Blending Machine Setters, Operators, and Tenders",39360,17.89,37210,3,"Production, Transportation, and Material Moving "
+420,519031,"10,580",22,25,"Cutters and Trimmers, Hand",31600,14.13,29390,3,"Production, Transportation, and Material Moving "
+421,519032,"60,840",24,46,"Cutting and Slicing Machine Setters, Operators, and Tenders",35700,16.64,34620,3,"Production, Transportation, and Material Moving "
+234,519041,"72,870",13,67,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",36800,16.89,35120,1,"Production, Transportation, and Material Moving "
+422,519051,"17,730",12,45,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",40610,18.83,39160,3,"Production, Transportation, and Material Moving "
+235,519061,"557,510",14,58,"Inspectors, Testers, Sorters, Samplers, and Weighers",42010,18.39,38250,1,"Production, Transportation, and Material Moving "
+423,519071,"25,910",44,24,Jewelers and Precious Stone and Metal Workers,43570,18.96,39440,3,"Production, Transportation, and Material Moving "
+424,519081,"34,480",20,35,Dental Laboratory Technicians,43180,19.44,40440,3,"Production, Transportation, and Material Moving "
+549,519082,"14,670",53,40,Medical Appliance Technicians,42180,18.84,39190,4,"Production, Transportation, and Material Moving "
+236,519083,"27,960",37,59,Ophthalmic Laboratory Technicians,34490,15.3,31830,1,"Production, Transportation, and Material Moving "
+425,519111,"395,330",23,46,Packaging and Filling Machine Operators and Tenders,32740,14.5,30160,3,"Production, Transportation, and Material Moving "
+426,519121,"88,560",10,42,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",36510,16.73,34800,3,"Production, Transportation, and Material Moving "
+427,519122,"55,710",25,45,"Painters, Transportation Equipment",46460,20.33,42280,3,"Production, Transportation, and Material Moving "
+428,519123,"12,200",30,12,"Painting, Coating, and Decorating Workers",33960,14.93,31050,3,"Production, Transportation, and Material Moving "
+237,519141,"25,730",21,69,Semiconductor Processors,39810,17.92,37270,1,"Production, Transportation, and Material Moving "
+280,519151,"16,680",74,85,Photographic Process Workers and Processing Machine Operators,34910,14.03,29180,2,"Production, Transportation, and Material Moving "
+429,519191,"16,310",3,46,Adhesive Bonding Machine Operators and Tenders,35850,16.26,33820,3,"Production, Transportation, and Material Moving "
+238,519192,"17,630",23,61,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",33090,14.8,30790,1,"Production, Transportation, and Material Moving "
+239,519193,"8,820",26,59,Cooling and Freezing Equipment Operators and Tenders,34520,15.58,32410,1,"Production, Transportation, and Material Moving "
+240,519194,"8,600",33,61,Etchers and Engravers,34550,15.06,31330,1,"Production, Transportation, and Material Moving "
+430,519195,"42,500",35,44,"Molders, Shapers, and Casters, Except Metal and Plastic",35190,16.03,33340,3,"Production, Transportation, and Material Moving "
+431,519196,"97,960",19,33,"Paper Goods Machine Setters, Operators, and Tenders",40320,18.62,38730,3,"Production, Transportation, and Material Moving "
+432,519197,"23,920",6,43,Tire Builders,45530,22.42,46630,3,"Production, Transportation, and Material Moving "
+433,519198,"350,410",28,41,Helpers--Production Workers,29380,13.33,27730,3,"Production, Transportation, and Material Moving "
+434,519199,"230,760",44,33,"Production Workers, All Other",34490,14.5,30170,3,"Production, Transportation, and Material Moving "
+281,531011,"8,920",66,72,Aircraft Cargo Handling Supervisors,55110,23.37,48610,2,"Production, Transportation, and Material Moving "
+241,531048,"411,060",40,71,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors","58,140",26.73,"55,600",1,"Production, Transportation, and Material Moving "
+282,532011,"82,890",57,72,"Airline Pilots, Copilots, and Flight Engineers",169560,NA,140340,2,"Production, Transportation, and Material Moving "
+283,532012,"37,870",65,53,Commercial Pilots,96530,NA,82240,2,"Production, Transportation, and Material Moving "
+284,532021,"22,390",66,62,Air Traffic Controllers,120830,59.87,124540,2,"Production, Transportation, and Material Moving "
+285,532022,"9,960",67,79,Airfield Operations Specialists,56760,25.1,52200,2,"Production, Transportation, and Material Moving "
+550,532031,"118,770",97,39,Flight Attendants,56630,NA,56000,4,"Production, Transportation, and Material Moving "
+286,533011,"15,380",80,52,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",29010,12.38,25750,2,"Production, Transportation, and Material Moving "
+551,533021,"174,110",80,37,"Bus Drivers, Transit and Intercity",44650,20.23,42080,4,"Production, Transportation, and Material Moving "
+552,533022,"504,150",62,23,"Bus Drivers, School or Special Client",33390,15.58,32420,4,"Production, Transportation, and Material Moving "
+287,533031,"414,860",76,56,Driver/Sales Workers,29610,11.88,24700,2,"Production, Transportation, and Material Moving "
+553,533032,"1,800,330",60,32,Heavy and Tractor-Trailer Truck Drivers,45570,21,43680,4,"Production, Transportation, and Material Moving "
+554,533033,"915,310",60,31,Light Truck or Delivery Services Drivers,36920,15.78,32810,4,"Production, Transportation, and Material Moving "
+555,533041,"207,920",70,25,Taxi Drivers and Chauffeurs,28450,12.49,25980,4,"Production, Transportation, and Material Moving "
+556,533099,"56,810",70,37,"Motor Vehicle Operators, All Other","35,640",14.6,"30,360",4,"Production, Transportation, and Material Moving "
+435,534011,"34,850",33,33,Locomotive Engineers,66920,29.86,62100,3,"Production, Transportation, and Material Moving "
+436,534012,560,35,30,Locomotive Firers,69030,30.69,63820,3,"Production, Transportation, and Material Moving "
+437,534013,"5,690",27,7,"Rail Yard Engineers, Dinkey Operators, and Hostlers",54640,25.3,52630,3,"Production, Transportation, and Material Moving "
+438,534021,"14,270",31,16,"Railroad Brake, Signal, and Switch Operators",58890,27.53,57260,3,"Production, Transportation, and Material Moving "
+242,534031,"42,360",37,55,Railroad Conductors and Yardmasters,66080,30.26,62930,1,"Production, Transportation, and Material Moving "
+557,534041,"8,850",75,24,Subway and Streetcar Operators,62970,32.78,68170,4,"Production, Transportation, and Material Moving "
+439,534099,"2,890",40,28,"Rail Transportation Workers, All Other","58,490",26.64,"55,410",3,"Production, Transportation, and Material Moving "
+440,535011,"32,220",34,32,Sailors and Marine Oilers,46180,19.66,40900,3,"Production, Transportation, and Material Moving "
+441,535021,"36,390",37,50,"Captains, Mates, and Pilots of Water Vessels",82380,33.26,69180,3,"Production, Transportation, and Material Moving "
+558,535022,"2,510",75,30,Motorboat Operators,50350,24.18,50290,4,"Production, Transportation, and Material Moving "
+442,535031,"8,740",16,39,Ship Engineers,75710,34.2,71130,3,"Production, Transportation, and Material Moving "
+559,536011,"3,170",67,17,Bridge and Lock Tenders,47660,24.19,50320,4,"Production, Transportation, and Material Moving "
+560,536021,"145,900",70,29,Parking Lot Attendants,25130,11.47,23870,4,"Production, Transportation, and Material Moving "
+561,536031,"113,760",71,35,Automotive and Watercraft Service Attendants,25940,11.64,24200,4,"Production, Transportation, and Material Moving "
+288,536041,"7,290",57,75,Traffic Technicians,50700,22.39,46570,2,"Production, Transportation, and Material Moving "
+443,536051,"29,990",37,47,Transportation Inspectors,75330,35.47,73780,3,"Production, Transportation, and Material Moving "
+444,536061,"25,460",44,10,"Transportation Attendants, Except Flight Attendants",30640,12.87,26760,3,"Production, Transportation, and Material Moving "
+562,536099,"37,560",53,41,"Transportation Workers, All Other","42,870",18.03,"37,490",4,"Production, Transportation, and Material Moving "
+445,537011,"23,390",29,41,Conveyor Operators and Tenders,35110,15.86,32980,3,"Production, Transportation, and Material Moving "
+446,537021,"44,410",34,37,Crane and Tower Operators,58160,26.03,54140,3,"Production, Transportation, and Material Moving "
+447,537031,"1,190",30,14,Dredge Operators,47500,21.76,45260,3,"Production, Transportation, and Material Moving "
+448,537032,"46,090",37,23,Excavating and Loading Machine and Dragline Operators,48680,21.28,44270,3,"Production, Transportation, and Material Moving "
+449,537033,"2,500",17,13,"Loading Machine Operators, Underground Mining",51450,24.6,51160,3,"Production, Transportation, and Material Moving "
+450,537041,"3,180",17,33,Hoist and Winch Operators,56390,21.87,45490,3,"Production, Transportation, and Material Moving "
+451,537051,"604,130",43,38,Industrial Truck and Tractor Operators,36480,16.71,34750,3,"Production, Transportation, and Material Moving "
+452,537061,"378,850",27,8,Cleaners of Vehicles and Equipment,26900,11.79,24530,3,"Production, Transportation, and Material Moving "
+453,537062,"2,893,180",47,24,"Laborers and Freight, Stock, and Material Movers, Hand",30890,13.59,28260,3,"Production, Transportation, and Material Moving "
+454,537063,"66,380",9,33,Machine Feeders and Offbearers,31710,14.21,29560,3,"Production, Transportation, and Material Moving "
+455,537064,"663,970",48,42,"Packers and Packagers, Hand",26490,11.82,24580,3,"Production, Transportation, and Material Moving "
+243,537071,"3,460",34,71,Gas Compressor and Gas Pumping Station Operators,62900,31.35,65210,1,"Production, Transportation, and Material Moving "
+244,537072,"10,820",28,62,"Pump Operators, Except Wellhead Pumpers",47510,21.34,44380,1,"Production, Transportation, and Material Moving "
+245,537073,"13,280",37,63,Wellhead Pumpers,53870,25.72,53490,1,"Production, Transportation, and Material Moving "
+563,537081,"118,520",59,16,Refuse and Recyclable Material Collectors,40560,17.92,37260,4,"Production, Transportation, and Material Moving "
+456,537111,"1,690",4,1,Mine Shuttle Car Operators,56150,27.09,56340,3,"Production, Transportation, and Material Moving "
+457,537121,"9,000",23,46,"Tank Car, Truck, and Ship Loaders",42330,18.38,38220,3,"Production, Transportation, and Material Moving "
+458,537199,"27,010",14,24,"Material Moving Workers, All Other","35,000",14.14,"29,410",3,"Production, Transportation, and Material Moving "

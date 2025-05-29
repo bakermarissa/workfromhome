@@ -2,11 +2,11 @@ Columns for the attached .csv are defined as following:
 
 code = internal identifier
 
-OCC_CODE = 2010 SOC code 
+OCC_CODE = 2010 SOC code (6 digit)
 
 employment = number employed in the occupation (2018, BLS)
 
-freq.public = importance of teracting with the public at work (from O*NET: https://www.onetonline.org/find/descriptor/result/4.A.4.a.8)
+freq.public = importance of interacting with the public at work (from O*NET: https://www.onetonline.org/find/descriptor/result/4.A.4.a.8)
 "How important is perofrming for or working directly with the public to the performance of your current job?"
 
 freq.comp = importance of using a computer at work (from O*NET: https://www.onetonline.org/find/descriptor/result/4.A.3.b.1)

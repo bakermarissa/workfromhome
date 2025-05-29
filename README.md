@@ -7,7 +7,7 @@ OCC_CODE = 2010 SOC code (6 digit)
 employment = number employed in the occupation (2018, BLS)
 
 freq.public = importance of interacting with the public at work (from O*NET: https://www.onetonline.org/find/descriptor/result/4.A.4.a.8)
-"How important is perofrming for or working directly with the public to the performance of your current job?"
+"How important is performing for or working directly with the public to the performance of your current job?"
 
 freq.comp = importance of using a computer at work (from O*NET: https://www.onetonline.org/find/descriptor/result/4.A.3.b.1)
 "How important is working with computers to the performance of your current job?"
